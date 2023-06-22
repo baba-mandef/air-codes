@@ -1,6 +1,6 @@
 {
   "name": "air-codes",
-  "version": "1.3.9",
+  "version": "1.3.0",
   "description": " A collection of airline and airport IATA codes, along with additional infos. ",
   "main": "index.js",
   "scripts": {
