@@ -1,0 +1,32 @@
+{
+  "name": "air-codes",
+  "version": "1.3.9",
+  "description": " A collection of airline and airport IATA codes, along with additional infos. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptahemdjehuty/air-codes.git"
+  },
+  "keywords": [
+    "iata",
+    "icao",
+    "airports",
+    "airlines",
+    "travel",
+    "amadeus",
+    "flight"
+  ],
+  "author": "Abiodoun Baba Mandef <pariso03henri@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptahemdjehuty/air-codes/issues"
+  },
+  "homepage": "https://github.com/ptahemdjehuty/air-codes#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-cli": "^29.5.0"
+  }
+}
