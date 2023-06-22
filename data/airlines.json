@@ -1,0 +1,6902 @@
+[
+  {
+    "iata": "0C",
+    "icao": "",
+    "name": "Cobra Aviation (Pty) Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/cobra_aviation.png"
+  },
+  {
+    "iata": "0E*",
+    "icao": "NWC",
+    "name": "Aircompany North",
+    "logo": "https://www.avcodes.co.uk/images/logos/NWC.png"
+  },
+  {
+    "iata": "0J",
+    "icao": "PJZ",
+    "name": "Premium Jet AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/PJZ.png"
+  },
+  {
+    "iata": "0V*",
+    "icao": "VFC",
+    "name": "Vietnam Air Service Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/VFC.png"
+  },
+  {
+    "iata": "1A",
+    "icao": "AGT",
+    "name": "Amadeus IT Group SA.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AGT.png"
+  },
+  {
+    "iata": "1B",
+    "icao": "",
+    "name": "Sabre Asia Pacific Pte. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/sabre_pacific.png"
+  },
+  {
+    "iata": "1C",
+    "icao": "",
+    "name": "A",
+    "logo": ""
+  },
+  {
+    "iata": "1D",
+    "icao": "",
+    "name": "Radixx Solutions International, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/radixx.png"
+  },
+  {
+    "iata": "1E",
+    "icao": "",
+    "name": "Travelsky Technology Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/travelsky.png"
+  },
+  {
+    "iata": "1F",
+    "icao": "",
+    "name": "INFINI Travel Information, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/infini.png"
+  },
+  {
+    "iata": "1G",
+    "icao": "",
+    "name": "Travelport d/b/a Worldspan",
+    "logo": "https://www.avcodes.co.uk/images/logos/Travelport.png"
+  },
+  {
+    "iata": "1H",
+    "icao": "",
+    "name": "Siren",
+    "logo": "https://www.avcodes.co.uk/images/logos/sirena_travel.jpg"
+  },
+  {
+    "iata": "1K",
+    "icao": "",
+    "name": "MixVel",
+    "logo": "https://www.avcodes.co.uk/images/logos/mixvel.png"
+  },
+  {
+    "iata": "1L",
+    "icao": "",
+    "name": "CitizenPlane",
+    "logo": "https://www.avcodes.co.uk/images/logos/citizenplane.png"
+  },
+  {
+    "iata": "1M",
+    "icao": "",
+    "name": "JSC Transport Automated Information Systems",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAIS.png"
+  },
+  {
+    "iata": "1N",
+    "icao": "",
+    "name": "Navitaire",
+    "logo": "https://www.avcodes.co.uk/images/logos/navitaire.png"
+  },
+  {
+    "iata": "1Q",
+    "icao": "",
+    "name": "InteliSys Aviation Systems (2013) Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/intelisys.png"
+  },
+  {
+    "iata": "1R",
+    "icao": "",
+    "name": "JR Technologies Ireland",
+    "logo": "https://www.avcodes.co.uk/images/logos/JRTechnoloies.png"
+  },
+  {
+    "iata": "1S",
+    "icao": "SBG",
+    "name": "Sabre, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SBG.gif"
+  },
+  {
+    "iata": "1T",
+    "icao": "",
+    "name": "Hitit Bilgisayar Hizmetleri A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/hitit.png"
+  },
+  {
+    "iata": "1U",
+    "icao": "",
+    "name": "ITA Software, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ita_logo.png"
+  },
+  {
+    "iata": "1V",
+    "icao": "",
+    "name": "Travelport d/b/a Galileo International",
+    "logo": "https://www.avcodes.co.uk/images/logos/Galileo.png"
+  },
+  {
+    "iata": "1W",
+    "icao": "",
+    "name": "CTW Consulting",
+    "logo": "https://www.avcodes.co.uk/images/logos/CTW_consulting.png"
+  },
+  {
+    "iata": "1X",
+    "icao": "",
+    "name": "Fly Branson Travel d/b/a Branson Air Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/bransonairexpress.png"
+  },
+  {
+    "iata": "1Y",
+    "icao": "",
+    "name": "DXC Technology Services LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/DXC_tech.png"
+  },
+  {
+    "iata": "1Z",
+    "icao": "",
+    "name": "Bird Information Systems Private Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/BIS_logo.png"
+  },
+  {
+    "iata": "2A",
+    "icao": "AWA",
+    "name": "Astra Airways Limited d/b/a Air Astra",
+    "logo": "https://www.avcodes.co.uk/images/logos/AWA.png"
+  },
+  {
+    "iata": "2A*",
+    "icao": "",
+    "name": "Deutsche Bahn AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/DBB.png"
+  },
+  {
+    "iata": "2B",
+    "icao": "AWT",
+    "name": "Albawings sh.p.k.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AWT.png"
+  },
+  {
+    "iata": "2C",
+    "icao": "CMA",
+    "name": "CMA CGM Air Cargo S.A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CMA.png"
+  },
+  {
+    "iata": "2C*",
+    "icao": "",
+    "name": "SNCF",
+    "logo": "https://www.avcodes.co.uk/images/logos/TGV.png"
+  },
+  {
+    "iata": "2D",
+    "icao": "EAL",
+    "name": "Eastern Airlines, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/EAL.png"
+  },
+  {
+    "iata": "2E*",
+    "icao": "",
+    "name": "Smokey Bay Air, Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "2F*",
+    "icao": "ACN",
+    "name": "Azul Conecta Ltda",
+    "logo": "https://www.avcodes.co.uk/images/logos/ACN.png"
+  },
+  {
+    "iata": "2G",
+    "icao": "AGU",
+    "name": "Open Joint Stock Company \"Angara Airlines\"",
+    "logo": "https://www.avcodes.co.uk/images/logos/AGU.png"
+  },
+  {
+    "iata": "2H*",
+    "icao": "",
+    "name": "Thalys International",
+    "logo": "https://www.avcodes.co.uk/images/logos/thalys.png"
+  },
+  {
+    "iata": "2I",
+    "icao": "SRU",
+    "name": "Star Up S.A. dba Star Peru",
+    "logo": "https://www.avcodes.co.uk/images/logos/SRU.png"
+  },
+  {
+    "iata": "2I*",
+    "icao": "CSB",
+    "name": "21 Air LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSB.png"
+  },
+  {
+    "iata": "2J",
+    "icao": "VBW",
+    "name": "Air Burkina",
+    "logo": "https://www.avcodes.co.uk/images/logos/VBW.png"
+  },
+  {
+    "iata": "2K",
+    "icao": "GLG",
+    "name": "Avianca Ecuador d/b/a Avianca",
+    "logo": "https://www.avcodes.co.uk/images/logos/GLG.png"
+  },
+  {
+    "iata": "2L",
+    "icao": "OAW",
+    "name": "Helvetic Airways AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/OAW.png"
+  },
+  {
+    "iata": "2L*",
+    "icao": "BOL",
+    "name": "Transportes Aereos Bolivianos (TAB)",
+    "logo": "https://www.avcodes.co.uk/images/logos/BOL.png"
+  },
+  {
+    "iata": "2M",
+    "icao": "MYD",
+    "name": "Maya Island Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/MYD.png"
+  },
+  {
+    "iata": "2N*",
+    "icao": "LYX",
+    "name": "SmartLynx Airlines Malta Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/LYX.png"
+  },
+  {
+    "iata": "2O*",
+    "icao": "",
+    "name": "Redemption Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "2P",
+    "icao": "GAP",
+    "name": "Air Philippines Corporation d/b/a PAL Express and Airphil Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/GAP.png"
+  },
+  {
+    "iata": "2Q",
+    "icao": "SNC",
+    "name": "Air Cargo Carriers, LLC.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SNC.png"
+  },
+  {
+    "iata": "2R",
+    "icao": "RLB",
+    "name": "Sunlight Express Airways t/a Sunlight Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/RLB.png"
+  },
+  {
+    "iata": "2S",
+    "icao": "STW",
+    "name": "Southwind Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/STW.png"
+  },
+  {
+    "iata": "2U",
+    "icao": "ERO",
+    "name": "Sun d'Or International Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/ERO.png"
+  },
+  {
+    "iata": "2V*",
+    "icao": "",
+    "name": "Amtrak",
+    "logo": "https://www.avcodes.co.uk/images/logos/amtrak.png"
+  },
+  {
+    "iata": "2W",
+    "icao": "WFL",
+    "name": "world2fly, S.L.U.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WFL.png"
+  },
+  {
+    "iata": "2Y*",
+    "icao": "MYU",
+    "name": "PT. My Indo Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MYU.png"
+  },
+  {
+    "iata": "2Z",
+    "icao": "PTB",
+    "name": "Passaredo Transportes Aereos, S.A. t/a VOEPASS",
+    "logo": "https://www.avcodes.co.uk/images/logos/PTB.png"
+  },
+  {
+    "iata": "3A*",
+    "icao": "",
+    "name": "Chu Kong Passanger Transport Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/chu_kong.gif"
+  },
+  {
+    "iata": "3B",
+    "icao": "BCV",
+    "name": "Transportes Interilhas de Cabo Verde, Sociedade Unipessoal, SA. TICV",
+    "logo": "https://www.avcodes.co.uk/images/logos/BCV.png"
+  },
+  {
+    "iata": "3C",
+    "icao": "CVA",
+    "name": "Air Chathams Limited t/a Air Chathams",
+    "logo": "https://www.avcodes.co.uk/images/logos/CVA.jpg"
+  },
+  {
+    "iata": "3D*",
+    "icao": "",
+    "name": "Dokasch GmBH",
+    "logo": "https://www.avcodes.co.uk/images/logos/dokasch.jpg"
+  },
+  {
+    "iata": "3F",
+    "icao": "FIE",
+    "name": "FLYONE Armenia",
+    "logo": "https://www.avcodes.co.uk/images/logos/FIE.png"
+  },
+  {
+    "iata": "3G*",
+    "icao": "WCM",
+    "name": "World Cargo Airlines Sdn. Bhd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WCM.png"
+  },
+  {
+    "iata": "3H",
+    "icao": "AIE",
+    "name": "Air Inuit Ltd/Ltee.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIE.png"
+  },
+  {
+    "iata": "3J",
+    "icao": "JUB",
+    "name": "Jubba Airways Limited d/b/a Jubba Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/JUB.png"
+  },
+  {
+    "iata": "3K*",
+    "icao": "JSA",
+    "name": "Jetstar Asia Airways Pte Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/JSA.png"
+  },
+  {
+    "iata": "3L",
+    "icao": "ADY",
+    "name": "Air Arabia Abu Dhabi",
+    "logo": "https://www.avcodes.co.uk/images/logos/ADY.png"
+  },
+  {
+    "iata": "3M",
+    "icao": "SIL",
+    "name": "Silver Airways Corp.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SIL.png"
+  },
+  {
+    "iata": "3N*",
+    "icao": "URG",
+    "name": "Air Urga",
+    "logo": "https://www.avcodes.co.uk/images/logos/URG.png"
+  },
+  {
+    "iata": "3O",
+    "icao": "MAC",
+    "name": "Air Arabia Maroc",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAC.png"
+  },
+  {
+    "iata": "3P",
+    "icao": "WPT",
+    "name": "World 2 Fly Portugal, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WPT.png"
+  },
+  {
+    "iata": "3R",
+    "icao": "DVR",
+    "name": "Divi Divi Air NV",
+    "logo": "https://www.avcodes.co.uk/images/logos/DVR.png"
+  },
+  {
+    "iata": "3S",
+    "icao": "GUY",
+    "name": "CAIRE d/b/a Air Antilles",
+    "logo": "https://www.avcodes.co.uk/images/logos/GUY.png"
+  },
+  {
+    "iata": "3S*",
+    "icao": "BOX",
+    "name": "AeroLogic GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/BOX.png"
+  },
+  {
+    "iata": "3T",
+    "icao": "TQQ",
+    "name": "Tarco Aviation Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TQQ.png"
+  },
+  {
+    "iata": "3U",
+    "icao": "CSC",
+    "name": "Sichuan Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSC.png"
+  },
+  {
+    "iata": "3V",
+    "icao": "TAY",
+    "name": "ASL Airlines Belgium",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAY.png"
+  },
+  {
+    "iata": "3W*",
+    "icao": "MWI",
+    "name": "Malawian Airlines 2014 t/a Malawi Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MWI.png"
+  },
+  {
+    "iata": "3X*",
+    "icao": "",
+    "name": "Premier Trans Aire, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PremierTransAire.png"
+  },
+  {
+    "iata": "3Z",
+    "icao": "TVP",
+    "name": "Smartwings Polska Sp. z.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVP.png"
+  },
+  {
+    "iata": "4A",
+    "icao": "AMP",
+    "name": "Aero Transporte S.A. (ATSA)",
+    "logo": "https://www.avcodes.co.uk/images/logos/AMP.png"
+  },
+  {
+    "iata": "4B",
+    "icao": "BTQ",
+    "name": "Boutique Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BTQ.png"
+  },
+  {
+    "iata": "4B*",
+    "icao": "TUP",
+    "name": "Aviastar",
+    "logo": "https://www.avcodes.co.uk/images/logos/TUP.png"
+  },
+  {
+    "iata": "4C",
+    "icao": "ARE",
+    "name": "Aerovias de Integration Regional d/b/a LATAM Airlines Colombia",
+    "logo": "https://www.avcodes.co.uk/images/logos/ARE.png"
+  },
+  {
+    "iata": "4D*",
+    "icao": "DIR",
+    "name": "Aerro Direkt S.r.l.",
+    "logo": ""
+  },
+  {
+    "iata": "4E",
+    "icao": "SBO",
+    "name": "Stabo Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SBO.png"
+  },
+  {
+    "iata": "4F",
+    "icao": "FDT",
+    "name": "Freedom Airlines Express Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FDT.png"
+  },
+  {
+    "iata": "4G*",
+    "icao": "GZP",
+    "name": "Gazpromavia Aviation Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/GZP.png"
+  },
+  {
+    "iata": "4H",
+    "icao": "HGG",
+    "name": "Hi Air Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HGG.png"
+  },
+  {
+    "iata": "4J",
+    "icao": "JRC",
+    "name": "Jetair Caribbean B.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JRC.png"
+  },
+  {
+    "iata": "4L",
+    "icao": "LAU",
+    "name": "Lineas Aereas Suramericanas SA t/a LAS, S.A.",
+    "logo": ""
+  },
+  {
+    "iata": "4M*",
+    "icao": "MGH",
+    "name": "Mavi Gök Havacilik A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MGH.png"
+  },
+  {
+    "iata": "4N",
+    "icao": "ANT",
+    "name": "Air North Charter and Training Ltd. t/a Air North",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANT.png"
+  },
+  {
+    "iata": "4P",
+    "icao": "",
+    "name": "Public Charters, Inc. d/b/a REGIONAL Sky",
+    "logo": "https://www.avcodes.co.uk/images/logos/regional_sky.png"
+  },
+  {
+    "iata": "4Q",
+    "icao": "ONY",
+    "name": "25Only Aviation GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/ONY.png"
+  },
+  {
+    "iata": "4R",
+    "icao": "",
+    "name": "Renfe Viajeros Sociedad Mercantil Estatal SA",
+    "logo": "https://www.avcodes.co.uk/images/logos/renfe.png"
+  },
+  {
+    "iata": "4R*",
+    "icao": "SEK",
+    "name": "Star East Airline s.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEK.png"
+  },
+  {
+    "iata": "4S",
+    "icao": "RSX",
+    "name": "Red Sea Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/RSX.png"
+  },
+  {
+    "iata": "4T",
+    "icao": "",
+    "name": "Transwest Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/transwest.png"
+  },
+  {
+    "iata": "4W",
+    "icao": "WAV",
+    "name": "Warbelow's Air Ventures, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WAV.png"
+  },
+  {
+    "iata": "4W*",
+    "icao": "AJK",
+    "name": "Allied Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AJK.gif"
+  },
+  {
+    "iata": "4X*",
+    "icao": "MEC",
+    "name": "Mercury Air Cargo, Inc. d/b/a Air Mercury",
+    "logo": "https://www.avcodes.co.uk/images/logos/MEC.png"
+  },
+  {
+    "iata": "4Y",
+    "icao": "OCN",
+    "name": "EW Discover GmbH t/a Eurowings Discover",
+    "logo": "https://www.avcodes.co.uk/images/logos/OCN.png"
+  },
+  {
+    "iata": "4Y*",
+    "icao": "BGA",
+    "name": "Airbus Transport International",
+    "logo": "https://www.avcodes.co.uk/images/logos/BGA.png"
+  },
+  {
+    "iata": "4Z",
+    "icao": "LNK",
+    "name": "Airlink (Pty) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LNK.png"
+  },
+  {
+    "iata": "5A",
+    "icao": "AIP",
+    "name": "Alpine Aviation, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIP.png"
+  },
+  {
+    "iata": "5C",
+    "icao": "ICL",
+    "name": "Challenge Airlines (IL) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ICL.png"
+  },
+  {
+    "iata": "5D",
+    "icao": "SLI",
+    "name": "Aerolitoral, S.A. de C.V., d/b/a Aeroméxico Connect",
+    "logo": "https://www.avcodes.co.uk/images/logos/SLI.png"
+  },
+  {
+    "iata": "5F",
+    "icao": "FIA",
+    "name": "FlyOne Airlines S.R.L.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FIA.png"
+  },
+  {
+    "iata": "5G*",
+    "icao": "SHS",
+    "name": "Shirak Avia LLC",
+    "logo": ""
+  },
+  {
+    "iata": "5H*",
+    "icao": "FFV",
+    "name": "Five Fourty Aviation Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/FFV.png"
+  },
+  {
+    "iata": "5I*",
+    "icao": "",
+    "name": "ALSA Grupo S.L.U.",
+    "logo": "https://www.avcodes.co.uk/images/logos/alsa.png"
+  },
+  {
+    "iata": "5J",
+    "icao": "CEB",
+    "name": "Cebu Air, Inc. d/b/a Cebu Pacific Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/CEB.png"
+  },
+  {
+    "iata": "5K",
+    "icao": "HFY",
+    "name": "Springjet, S.A. t/a HiFly",
+    "logo": "https://www.avcodes.co.uk/images/logos/HFY.png"
+  },
+  {
+    "iata": "5M",
+    "icao": "MNT",
+    "name": "Montserrat Airways Ltd. t/a FlyMontserrat",
+    "logo": "https://www.avcodes.co.uk/images/logos/MNT.png"
+  },
+  {
+    "iata": "5M*",
+    "icao": "MDO",
+    "name": "Mel Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/MDO.png"
+  },
+  {
+    "iata": "5N",
+    "icao": "AUL",
+    "name": "Joint Stock Company Smartavia Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/AUL.png"
+  },
+  {
+    "iata": "5O",
+    "icao": "FPO",
+    "name": "ASL Airlines France S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FPO.png"
+  },
+  {
+    "iata": "5P",
+    "icao": "UZP",
+    "name": "Panorama Airways Limited Liability Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/UZP.png"
+  },
+  {
+    "iata": "5Q",
+    "icao": "HES",
+    "name": "Holiday Europe Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HES.png"
+  },
+  {
+    "iata": "5R",
+    "icao": "RUC",
+    "name": "Rutas Aereas, C.A. d/b/a Rutaca Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/RUC.png"
+  },
+  {
+    "iata": "5S",
+    "icao": "GAK",
+    "name": "Global Aviation Services Group",
+    "logo": "https://www.avcodes.co.uk/images/logos/GAK.png"
+  },
+  {
+    "iata": "5T",
+    "icao": "AKT",
+    "name": "Canadian North Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AKT.png"
+  },
+  {
+    "iata": "5U",
+    "icao": "TGU",
+    "name": "Transportes Aéreos Guatemaltecos",
+    "logo": "https://www.avcodes.co.uk/images/logos/TGU.png"
+  },
+  {
+    "iata": "5V",
+    "icao": "VTS",
+    "name": "Tatonduk Outfitters Ltd. d/b/a Everts Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/VTS.png"
+  },
+  {
+    "iata": "5W",
+    "icao": "WAZ",
+    "name": "Wizz Air Abu Dhabi d/b/a Wizz Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/WAZ.png"
+  },
+  {
+    "iata": "5X",
+    "icao": "UPS",
+    "name": "United Parcel Service Company (UPS)",
+    "logo": "https://www.avcodes.co.uk/images/logos/UPS.png"
+  },
+  {
+    "iata": "5Y",
+    "icao": "GTI",
+    "name": "Atlas Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GTI.jpg"
+  },
+  {
+    "iata": "5Z",
+    "icao": "KEM",
+    "name": "Cemair (Pty) Ltd. t/a Cemair",
+    "logo": "https://www.avcodes.co.uk/images/logos/KEM.png"
+  },
+  {
+    "iata": "6A",
+    "icao": "AMW",
+    "name": "Armenia Airways Air company CJSC",
+    "logo": ""
+  },
+  {
+    "iata": "6B*",
+    "icao": "BLX",
+    "name": "TUIfly Nordic AB",
+    "logo": "https://www.avcodes.co.uk/images/logos/BLX.png"
+  },
+  {
+    "iata": "6D",
+    "icao": "TVQ",
+    "name": "Smartwings Slovensko s.r.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVQ.png"
+  },
+  {
+    "iata": "6E*",
+    "icao": "IGO",
+    "name": "Interglobe Aviation Ltd. d/b/a Indigo",
+    "logo": "https://www.avcodes.co.uk/images/logos/IGO.gif"
+  },
+  {
+    "iata": "6F",
+    "icao": "",
+    "name": "Fox Aircxraft LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/foxaircraft.png"
+  },
+  {
+    "iata": "6G",
+    "icao": "RLX",
+    "name": "Go2Sky spol s.r.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RLX.png"
+  },
+  {
+    "iata": "6H",
+    "icao": "ISR",
+    "name": "Israir Airlines and Tourism Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ISR.png"
+  },
+  {
+    "iata": "6I",
+    "icao": "MMD",
+    "name": "Alsie Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/MMD_express.png"
+  },
+  {
+    "iata": "6J",
+    "icao": "SNJ",
+    "name": "Solaseed Air Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SNJ.png"
+  },
+  {
+    "iata": "6M",
+    "icao": "MXM",
+    "name": "Maximus Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MXM.png"
+  },
+  {
+    "iata": "6N",
+    "icao": "NIN",
+    "name": "Niger Airlines S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NIN.png"
+  },
+  {
+    "iata": "6O",
+    "icao": "OBS",
+    "name": "Orbest Airlines, S.L. d/b/a iberojet",
+    "logo": "https://www.avcodes.co.uk/images/logos/OBS.png"
+  },
+  {
+    "iata": "6P*",
+    "icao": "PRX",
+    "name": "Pradhaan Air Express Private Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/PRX.png"
+  },
+  {
+    "iata": "6Q",
+    "icao": "SAW",
+    "name": "Cham Wings Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SAW.png"
+  },
+  {
+    "iata": "6R",
+    "icao": "DRU",
+    "name": "Open Joint Stock Company \"ALROSA\" (Mirny Air Enterprise)",
+    "logo": "https://www.avcodes.co.uk/images/logos/DRU.png"
+  },
+  {
+    "iata": "6R*",
+    "icao": "TNO",
+    "name": "Aerotransporte de Carga Union, S.A. de C.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TNO.png"
+  },
+  {
+    "iata": "6T",
+    "icao": "LGT",
+    "name": "Longtail Aviation International Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/LGT.png"
+  },
+  {
+    "iata": "6W",
+    "icao": "FBS",
+    "name": "FlyBosnia d.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FBS.png"
+  },
+  {
+    "iata": "6Y",
+    "icao": "ART",
+    "name": "Smartlynx Airlines, SIA",
+    "logo": "https://www.avcodes.co.uk/images/logos/ART.png"
+  },
+  {
+    "iata": "7A",
+    "icao": "XRC",
+    "name": "Express Air Cargo",
+    "logo": "https://www.avcodes.co.uk/images/logos/XRC.png"
+  },
+  {
+    "iata": "7B",
+    "icao": "UBE",
+    "name": "Limited Liability Company  Bees Airline",
+    "logo": "https://www.avcodes.co.uk/images/logos/UBE.png"
+  },
+  {
+    "iata": "7C",
+    "icao": "JJA",
+    "name": "Jeju Air Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JJA.png"
+  },
+  {
+    "iata": "7C*",
+    "icao": "COY",
+    "name": "Coyne Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/COY.png"
+  },
+  {
+    "iata": "7E",
+    "icao": "AWU",
+    "name": "Sylt Air GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/AWU.png"
+  },
+  {
+    "iata": "7G*",
+    "icao": "SFJ",
+    "name": "Star Flyer Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/SFJ.jpg"
+  },
+  {
+    "iata": "7H",
+    "icao": "RVF",
+    "name": "Northern Pacific Airways d/b/a Ravn Alaska",
+    "logo": "https://www.avcodes.co.uk/images/logos/RVF.png"
+  },
+  {
+    "iata": "7I",
+    "icao": "TLR",
+    "name": "Air Libya Airline Company d/b/a Air Libya",
+    "logo": "https://www.avcodes.co.uk/images/logos/TLR_old.png"
+  },
+  {
+    "iata": "7J",
+    "icao": "TJK",
+    "name": "OJSC \"Tajik Air\"",
+    "logo": "https://www.avcodes.co.uk/images/logos/TJK.png"
+  },
+  {
+    "iata": "7K*",
+    "icao": "",
+    "name": "AmSafe Bridport",
+    "logo": "https://www.avcodes.co.uk/images/logos/amsafe.png"
+  },
+  {
+    "iata": "7L*",
+    "icao": "AZG",
+    "name": "Silk Way West Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZG.png"
+  },
+  {
+    "iata": "7M",
+    "icao": "PAM",
+    "name": "Map Linhas Aereas Ltda",
+    "logo": "https://www.avcodes.co.uk/images/logos/PAM.png"
+  },
+  {
+    "iata": "7N",
+    "icao": "MTD",
+    "name": "MetroJets, LLC",
+    "logo": ""
+  },
+  {
+    "iata": "7O",
+    "icao": "TVL",
+    "name": "Smartwings Hungary Kft.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVL.png"
+  },
+  {
+    "iata": "7P",
+    "icao": "PST",
+    "name": "Parsa S.A. d/b/a Air Panama",
+    "logo": "https://www.avcodes.co.uk/images/logos/PST.png"
+  },
+  {
+    "iata": "7R",
+    "icao": "RLU",
+    "name": "Joint Stock Aviation Company \"RusLine\"",
+    "logo": "https://www.avcodes.co.uk/images/logos/RLU.png"
+  },
+  {
+    "iata": "7S*",
+    "icao": "RYA",
+    "name": "Ryan Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RYA.png"
+  },
+  {
+    "iata": "7T",
+    "icao": "RTM",
+    "name": "Aero Express Del Ecuador Trans AM",
+    "logo": "https://www.avcodes.co.uk/images/logos/RTM.png"
+  },
+  {
+    "iata": "7T*",
+    "icao": "",
+    "name": "Trenitalia S.p.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/trenitalia.gif"
+  },
+  {
+    "iata": "7U",
+    "icao": "",
+    "name": "Alpha Air Transport d/b/a Commercial Aviation Services",
+    "logo": ""
+  },
+  {
+    "iata": "7V",
+    "icao": "FDR",
+    "name": "Federal Airlines (Pty) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FDR.png"
+  },
+  {
+    "iata": "7W",
+    "icao": "WRC",
+    "name": "Wind Rose Aviation Company Ltd t/a WINDROSE Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/WRC.png"
+  },
+  {
+    "iata": "7Y",
+    "icao": "MYP",
+    "name": "Mann Yadanarpon Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MYP.png"
+  },
+  {
+    "iata": "7Z",
+    "icao": "",
+    "name": "EZ Air BV",
+    "logo": "https://www.avcodes.co.uk/images/logos/EZ Air_logo.png"
+  },
+  {
+    "iata": "7Z*",
+    "icao": "AJI",
+    "name": "Ameristar Jet Charter, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AJI.png"
+  },
+  {
+    "iata": "8A",
+    "icao": "",
+    "name": "Panama Airways",
+    "logo": ""
+  },
+  {
+    "iata": "8B",
+    "icao": "TNU",
+    "name": "PT. Transnusa Aviation Mandiri",
+    "logo": "https://www.avcodes.co.uk/images/logos/TNU.png"
+  },
+  {
+    "iata": "8C",
+    "icao": "ATN",
+    "name": "Air Transport International LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/ATN.png"
+  },
+  {
+    "iata": "8D",
+    "icao": "EXV",
+    "name": "FITS Aviation (Pvt) Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/EXV.png"
+  },
+  {
+    "iata": "8E",
+    "icao": "BRG",
+    "name": "Bering Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BRG.png"
+  },
+  {
+    "iata": "8E*",
+    "icao": "EFX",
+    "name": "Easy Fly Express Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/EFX.png"
+  },
+  {
+    "iata": "8F",
+    "icao": "STP",
+    "name": "STP Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/STP.jpg"
+  },
+  {
+    "iata": "8G",
+    "icao": "DTL",
+    "name": "Aero Dili Transport Services S.A. d/b/a AERO DILI",
+    "logo": "https://www.avcodes.co.uk/images/logos/aero_dili.png"
+  },
+  {
+    "iata": "8H*",
+    "icao": "BGH",
+    "name": "BH Air Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BGH.png"
+  },
+  {
+    "iata": "8J",
+    "icao": "ECO",
+    "name": "Linea Aerea Eco Jet S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ECO.png"
+  },
+  {
+    "iata": "8K",
+    "icao": "KMI",
+    "name": "K",
+    "logo": "https://www.avcodes.co.uk/images/logos/KMI.png"
+  },
+  {
+    "iata": "8K*",
+    "icao": "",
+    "name": "Exploits Valley Air Services Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/EVAS.png"
+  },
+  {
+    "iata": "8L*",
+    "icao": "LKE",
+    "name": "Lucky Air Co. Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/LKE.png"
+  },
+  {
+    "iata": "8M",
+    "icao": "MMA",
+    "name": "Myanmar Airways International Company Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MMA.png"
+  },
+  {
+    "iata": "8N",
+    "icao": "REG",
+    "name": "Regional Air Services Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/REG.png"
+  },
+  {
+    "iata": "8P",
+    "icao": "PCO",
+    "name": "Pacific Coastal Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/PCO.png"
+  },
+  {
+    "iata": "8R",
+    "icao": "AIA",
+    "name": "Regourd Aviation d/b/a Amelia",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIA.png"
+  },
+  {
+    "iata": "8S*",
+    "icao": "",
+    "name": "Shun Tak",
+    "logo": "https://www.avcodes.co.uk/images/logos/turbojet.png"
+  },
+  {
+    "iata": "8T*",
+    "icao": "TIN",
+    "name": "Air Tindi Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TIN.png"
+  },
+  {
+    "iata": "8U",
+    "icao": "AAW",
+    "name": "Afriqiyah Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAW.png"
+  },
+  {
+    "iata": "8V",
+    "icao": "WRF",
+    "name": "Wright Air Service, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WRF.jpg"
+  },
+  {
+    "iata": "8V*",
+    "icao": "ACP",
+    "name": "Astral Aviation Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ACP.png"
+  },
+  {
+    "iata": "8W",
+    "icao": "EDR",
+    "name": "Fly AllWays N.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/EDR.png"
+  },
+  {
+    "iata": "8Y*",
+    "icao": "AAV",
+    "name": "Astro Air International Inc. d/b/a Pan Pacific Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAV.png"
+  },
+  {
+    "iata": "8Z",
+    "icao": "CGA",
+    "name": "Congo Airways SA (CGA)",
+    "logo": "https://www.avcodes.co.uk/images/logos/congo_airways.png"
+  },
+  {
+    "iata": "9A",
+    "icao": "GCA",
+    "name": "Gran Colombia de Aviacion SAS d/b/a GCA Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/GCA.png"
+  },
+  {
+    "iata": "9B*",
+    "icao": "",
+    "name": "AccesRail and Partner Railways",
+    "logo": "https://www.avcodes.co.uk/images/logos/accessrail.png"
+  },
+  {
+    "iata": "9C",
+    "icao": "CQH",
+    "name": "Spring Airlines Limited Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/CQH.png"
+  },
+  {
+    "iata": "9D",
+    "icao": "NMG",
+    "name": "Genghis Khan Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NMG.png"
+  },
+  {
+    "iata": "9E",
+    "icao": "EDV",
+    "name": "Endeavor Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/EDV.png"
+  },
+  {
+    "iata": "9F*",
+    "icao": "",
+    "name": "Eurostar (U.K.) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/eurostar.png"
+  },
+  {
+    "iata": "9H",
+    "icao": "CGN",
+    "name": "Changan Airlines Limited Company t/a Air Changan",
+    "logo": "https://www.avcodes.co.uk/images/logos/CGN.png"
+  },
+  {
+    "iata": "9I",
+    "icao": "",
+    "name": "Airline Allied Services Limited dba Alliance Air",
+    "logo": ""
+  },
+  {
+    "iata": "9J",
+    "icao": "DAN",
+    "name": "Dana Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAN.png"
+  },
+  {
+    "iata": "9K",
+    "icao": "KAP",
+    "name": "Hyannis Air Service, Inc. d/b/a Cape Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/KAP.png"
+  },
+  {
+    "iata": "9L",
+    "icao": "TOW",
+    "name": "AirTanker Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/TOW.png"
+  },
+  {
+    "iata": "9M",
+    "icao": "GLR",
+    "name": "Central Mountain Air Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GLR.png"
+  },
+  {
+    "iata": "9N",
+    "icao": "TOS",
+    "name": "Tropic Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TOS.png"
+  },
+  {
+    "iata": "9O*",
+    "icao": "",
+    "name": "The Cargo Flights Co., Ltd.",
+    "logo": ""
+  },
+  {
+    "iata": "9P",
+    "icao": "FJL",
+    "name": "Fly Jinnah",
+    "logo": "https://www.avcodes.co.uk/images/logos/fly_jinnah.png"
+  },
+  {
+    "iata": "9Q",
+    "icao": "CXE",
+    "name": "Caicos Express Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/CXE.png"
+  },
+  {
+    "iata": "9R*",
+    "icao": "NSE",
+    "name": "SATENA Servicio Aereo a Territorios Nacionales",
+    "logo": "https://www.avcodes.co.uk/images/logos/NSE.png"
+  },
+  {
+    "iata": "9T*",
+    "icao": "RUN",
+    "name": "ACT Havayollari A.S. (ACT Airlines)",
+    "logo": "https://www.avcodes.co.uk/images/logos/RUN.png"
+  },
+  {
+    "iata": "9V",
+    "icao": "ROI",
+    "name": "Aviones de Oriente, C.A. (AVIOR)",
+    "logo": "https://www.avcodes.co.uk/images/logos/ROI.png"
+  },
+  {
+    "iata": "9X",
+    "icao": "FDY",
+    "name": "Southern Airways Express, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/FDY.png"
+  },
+  {
+    "iata": "9Y*",
+    "icao": "NAE",
+    "name": "National Airways plc",
+    "logo": "https://www.avcodes.co.uk/images/logos/NAE.png"
+  },
+  {
+    "iata": "A0",
+    "icao": "EFW",
+    "name": "BA EuroFlyer Limited d/b/a British Airways",
+    "logo": ""
+  },
+  {
+    "iata": "A1",
+    "icao": "",
+    "name": "A.P.G. Distribution System",
+    "logo": "https://www.avcodes.co.uk/images/logos/apglogo.png"
+  },
+  {
+    "iata": "A2",
+    "icao": "AWG",
+    "name": "Anima Wings Aviation S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/awg.png"
+  },
+  {
+    "iata": "A3",
+    "icao": "AEE",
+    "name": "Aegean Airlines, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AEE.png"
+  },
+  {
+    "iata": "A4",
+    "icao": "AZO",
+    "name": "JSC Azimuth Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MUT.png"
+  },
+  {
+    "iata": "A5",
+    "icao": "HOP",
+    "name": "HOP!",
+    "logo": "https://www.avcodes.co.uk/images/logos/HOP.png"
+  },
+  {
+    "iata": "A6",
+    "icao": "OTC",
+    "name": "Air Travel Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/OTC.png"
+  },
+  {
+    "iata": "A7",
+    "icao": "CFV",
+    "name": "Aero Calafia, S.A. de C.V. t/a Calafia Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CFV.png"
+  },
+  {
+    "iata": "A8*",
+    "icao": "XAU",
+    "name": "Aerolink Uganda Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/XAU.png"
+  },
+  {
+    "iata": "A9",
+    "icao": "TGZ",
+    "name": "Georgian Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/TGZ.png"
+  },
+  {
+    "iata": "AA",
+    "icao": "AAL",
+    "name": "American Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAL.png"
+  },
+  {
+    "iata": "AB",
+    "icao": "BNZ",
+    "name": "Bonza Aviation Pty Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BNZ.png"
+  },
+  {
+    "iata": "AC",
+    "icao": "ACA",
+    "name": "Air Canada",
+    "logo": "https://www.avcodes.co.uk/images/logos/ACA.png"
+  },
+  {
+    "iata": "AD",
+    "icao": "AZU",
+    "name": "Azul Linhas Aereas Brasileiras",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZU.png"
+  },
+  {
+    "iata": "AE",
+    "icao": "MDA",
+    "name": "Mandarin Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MDA.png"
+  },
+  {
+    "iata": "AF",
+    "icao": "AFR",
+    "name": "Air France",
+    "logo": "https://www.avcodes.co.uk/images/logos/AFR.png"
+  },
+  {
+    "iata": "AG",
+    "icao": "ARU",
+    "name": "Arubaanse Luchtvaart Maatschappij N.V dba Aruba Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/ARU.png"
+  },
+  {
+    "iata": "AH",
+    "icao": "DAH",
+    "name": "Air Algerie",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAH.png"
+  },
+  {
+    "iata": "AI",
+    "icao": "AIC",
+    "name": "Air India Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIC.png"
+  },
+  {
+    "iata": "AJ",
+    "icao": "AZY",
+    "name": "Aztec Worldwide Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZY.png"
+  },
+  {
+    "iata": "AK",
+    "icao": "AXM",
+    "name": "Air Asia Sen Bhd. t/a Air Asia",
+    "logo": "https://www.avcodes.co.uk/images/logos/AXM.png"
+  },
+  {
+    "iata": "AM",
+    "icao": "AMX",
+    "name": "Aerovias de Mexico S.A. de C.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AMX.png"
+  },
+  {
+    "iata": "AN",
+    "icao": "WSN",
+    "name": "Advanced Air, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/WSN.png"
+  },
+  {
+    "iata": "AO",
+    "icao": "",
+    "name": "Air Juan Aviation, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/air_juan.png"
+  },
+  {
+    "iata": "AP",
+    "icao": "LAV",
+    "name": "Alba Star, S.A. d/b/a Alba Star.es",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAV.png"
+  },
+  {
+    "iata": "AQ",
+    "icao": "JYH",
+    "name": "Nine Air Co., Ltd. t/a 9air.com",
+    "logo": "https://www.avcodes.co.uk/images/logos/JYH.png"
+  },
+  {
+    "iata": "AR",
+    "icao": "ARG",
+    "name": "Aerolineas Argentinas",
+    "logo": "https://www.avcodes.co.uk/images/logos/ARG.gif"
+  },
+  {
+    "iata": "AS",
+    "icao": "ASA",
+    "name": "Alaska Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ASA.png"
+  },
+  {
+    "iata": "AT",
+    "icao": "RAM",
+    "name": "Royal Air Maroc",
+    "logo": "https://www.avcodes.co.uk/images/logos/RAM.png"
+  },
+  {
+    "iata": "AU",
+    "icao": "CJL",
+    "name": "Canada Jetlines Operations Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/CJL.png"
+  },
+  {
+    "iata": "AV",
+    "icao": "AVA",
+    "name": "Avianca",
+    "logo": "https://www.avcodes.co.uk/images/logos/AVA.png"
+  },
+  {
+    "iata": "AW*",
+    "icao": "AFW",
+    "name": "Africa World Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AFW.png"
+  },
+  {
+    "iata": "AX*",
+    "icao": "AXY",
+    "name": "Air X Charter Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AXY.png"
+  },
+  {
+    "iata": "AY",
+    "icao": "FIN",
+    "name": "Finnair Oyj",
+    "logo": "https://www.avcodes.co.uk/images/logos/FIN.png"
+  },
+  {
+    "iata": "AZ",
+    "icao": "ITY",
+    "name": "Italia Transporto Aereo S.p.A. d/b/a ITA S.p.A",
+    "logo": "https://www.avcodes.co.uk/images/logos/ITY.png"
+  },
+  {
+    "iata": "B0",
+    "icao": "DJT",
+    "name": "DreamJet SAS d/b/a La Compagnie",
+    "logo": "https://www.avcodes.co.uk/images/logos/DJT.png"
+  },
+  {
+    "iata": "B1",
+    "icao": "",
+    "name": "Bravo Passenger Solution Pte., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/Bravo_logo.png"
+  },
+  {
+    "iata": "B2",
+    "icao": "BRU",
+    "name": "Belavia",
+    "logo": "https://www.avcodes.co.uk/images/logos/BRU.png"
+  },
+  {
+    "iata": "B3",
+    "icao": "BTN",
+    "name": "Tashi Air Private Ltd. t/a Bhutan Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/BTN.png"
+  },
+  {
+    "iata": "B5",
+    "icao": "BBT",
+    "name": "BBN Hava Yollari ve Tasimacili A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BBT.png"
+  },
+  {
+    "iata": "B6*",
+    "icao": "JBU",
+    "name": "Jetblue Airways Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/JBU.png"
+  },
+  {
+    "iata": "B7",
+    "icao": "UIA",
+    "name": "UNI Airways Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/UIA.png"
+  },
+  {
+    "iata": "B9",
+    "icao": "IRB",
+    "name": "Iran Airtour Airline",
+    "logo": "https://www.avcodes.co.uk/images/logos/IRB.png"
+  },
+  {
+    "iata": "BA",
+    "icao": "BAW",
+    "name": "British Airways P.L.C.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BAW.png"
+  },
+  {
+    "iata": "BB*",
+    "icao": "SBS",
+    "name": "Seaborne Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SBS.png"
+  },
+  {
+    "iata": "BC",
+    "icao": "SKY",
+    "name": "Skymark Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SKY.png"
+  },
+  {
+    "iata": "BD",
+    "icao": "BGN",
+    "name": "Air Inter Transport Co., Ltd. t/a Budget Lines",
+    "logo": "https://www.avcodes.co.uk/images/logos/BGN.png"
+  },
+  {
+    "iata": "BF",
+    "icao": "FBU",
+    "name": "French bee",
+    "logo": "https://www.avcodes.co.uk/images/logos/FBU.png"
+  },
+  {
+    "iata": "BG",
+    "icao": "BBC",
+    "name": "Biman Bangladesh Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/BBC.png"
+  },
+  {
+    "iata": "BH",
+    "icao": "BML",
+    "name": "Bismillah Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BML.png"
+  },
+  {
+    "iata": "BI",
+    "icao": "RBA",
+    "name": "Royal Brunei Airlines Sdn. Bhd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RBA.png"
+  },
+  {
+    "iata": "BJ",
+    "icao": "LBT",
+    "name": "Nouvelair Tunisie",
+    "logo": "https://www.avcodes.co.uk/images/logos/LBT.png"
+  },
+  {
+    "iata": "BK*",
+    "icao": "OKA",
+    "name": "Okay Airways Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/OKA.png"
+  },
+  {
+    "iata": "BL",
+    "icao": "PIC",
+    "name": "Pacific Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PIC.png"
+  },
+  {
+    "iata": "BM",
+    "icao": "MNS",
+    "name": "Medsky Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/MNS.png"
+  },
+  {
+    "iata": "BN",
+    "icao": "LWG",
+    "name": "Luxwing Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/LWG.png"
+  },
+  {
+    "iata": "BO",
+    "icao": "BBD",
+    "name": "Bláfugl ehf. d/b/a bluebird NORDIC",
+    "logo": "https://www.avcodes.co.uk/images/logos/BBD.png"
+  },
+  {
+    "iata": "BP",
+    "icao": "BOT",
+    "name": "Air Botswana Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/BOT.png"
+  },
+  {
+    "iata": "BQ",
+    "icao": "SWU",
+    "name": "Sky Alps S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/skyalps.png"
+  },
+  {
+    "iata": "BR",
+    "icao": "EVA",
+    "name": "EVA Airways Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/EVA.png"
+  },
+  {
+    "iata": "BS",
+    "icao": "UBG",
+    "name": "US",
+    "logo": "https://www.avcodes.co.uk/images/logos/UBG.png"
+  },
+  {
+    "iata": "BT",
+    "icao": "BTI",
+    "name": "Air Baltic Corporation S/A",
+    "logo": "https://www.avcodes.co.uk/images/logos/BTI.png"
+  },
+  {
+    "iata": "BU",
+    "icao": "DBP",
+    "name": "Compagnie Africaine d'Aviation (CAA)",
+    "logo": "https://www.avcodes.co.uk/images/logos/CAA_logo.png"
+  },
+  {
+    "iata": "BW",
+    "icao": "BWA",
+    "name": "Caribbean Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/BWA.png"
+  },
+  {
+    "iata": "BX",
+    "icao": "ABL",
+    "name": "Air Busan",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABL.png"
+  },
+  {
+    "iata": "BY",
+    "icao": "TOM",
+    "name": "TUI Airways Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TOM.png"
+  },
+  {
+    "iata": "BZ",
+    "icao": "BBG",
+    "name": "Blue Bird Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/BBG.png"
+  },
+  {
+    "iata": "BZ*",
+    "icao": "BDA",
+    "name": "Blue Dart Aviation Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/BDA.png"
+  },
+  {
+    "iata": "C1",
+    "icao": "",
+    "name": "Techtimes Sudamericana S.A.",
+    "logo": ""
+  },
+  {
+    "iata": "C3",
+    "icao": "TDR",
+    "name": "Trade Air d.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TDR.png"
+  },
+  {
+    "iata": "C3*",
+    "icao": "CTW",
+    "name": "Cargo Three, Inc. (Cargo Tres, Sociedad Anónima)",
+    "logo": ""
+  },
+  {
+    "iata": "C4*",
+    "icao": "QAI",
+    "name": "Conquest Air, Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "C5",
+    "icao": "UCA",
+    "name": "CommuteAir, LLC.",
+    "logo": "https://www.avcodes.co.uk/images/logos/UCA.png"
+  },
+  {
+    "iata": "C6",
+    "icao": "MFX",
+    "name": "My Freighter Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MFX.png"
+  },
+  {
+    "iata": "C6*",
+    "icao": "",
+    "name": "Unilode Aviation Solutions New Zealand Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/unilode.png"
+  },
+  {
+    "iata": "C7",
+    "icao": "CIN",
+    "name": "Saffron Aviation (Pvt) Ltd. d/b/a Cinnamon Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/CIN.gif"
+  },
+  {
+    "iata": "C8",
+    "icao": "ICV",
+    "name": "Cargolux Italia S.p.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ICV.png"
+  },
+  {
+    "iata": "C8*",
+    "icao": "CRA",
+    "name": "Cronos Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CRA.png"
+  },
+  {
+    "iata": "C9",
+    "icao": "CKL",
+    "name": "Cronos Airlines Benin",
+    "logo": "https://www.avcodes.co.uk/images/logos/CKL.png"
+  },
+  {
+    "iata": "CA",
+    "icao": "CCA",
+    "name": "Air China Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CCA.gif"
+  },
+  {
+    "iata": "CA*",
+    "icao": "CAO",
+    "name": "Air China Cargo Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CAO.png"
+  },
+  {
+    "iata": "CB*",
+    "icao": "",
+    "name": "Trans Caribbean Air Export Import Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "CC",
+    "icao": "ABD",
+    "name": "Air Atlanta Icelandic",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABD.png"
+  },
+  {
+    "iata": "CD",
+    "icao": "CND",
+    "name": "Corendon Dutch Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CND.png"
+  },
+  {
+    "iata": "CD*",
+    "icao": "LLR",
+    "name": "Alliance Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/LLR.jpg"
+  },
+  {
+    "iata": "CE*",
+    "icao": "CLG",
+    "name": "Chalair Aviation",
+    "logo": "https://www.avcodes.co.uk/images/logos/CLG.png"
+  },
+  {
+    "iata": "CF",
+    "icao": "CYZ",
+    "name": "China Postal Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CYZ.png"
+  },
+  {
+    "iata": "CF*",
+    "icao": "CIL",
+    "name": "CIAF Leasing",
+    "logo": "https://www.avcodes.co.uk/images/logos/CIL.png"
+  },
+  {
+    "iata": "CG*",
+    "icao": "TOK",
+    "name": "PNG Air Limited.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TOK.png"
+  },
+  {
+    "iata": "CH",
+    "icao": "BMJ",
+    "name": "Bemidji Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/BMJ.png"
+  },
+  {
+    "iata": "CI",
+    "icao": "CAL",
+    "name": "China Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CAL.png"
+  },
+  {
+    "iata": "CJ*",
+    "icao": "CFE",
+    "name": "Cityflyer Express Limited t/a BA Cityflyer",
+    "logo": "https://www.avcodes.co.uk/images/logos/CFE.png"
+  },
+  {
+    "iata": "CK",
+    "icao": "CKK",
+    "name": "China Cargo Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CKK.png"
+  },
+  {
+    "iata": "CL",
+    "icao": "CLH",
+    "name": "Lufthansa CityLine",
+    "logo": "https://www.avcodes.co.uk/images/logos/CLH.png"
+  },
+  {
+    "iata": "CM",
+    "icao": "CMP",
+    "name": "Copa Airlines, Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/CMP.png"
+  },
+  {
+    "iata": "CM*",
+    "icao": "PHP",
+    "name": "PSI Air 2007, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/psiair.png"
+  },
+  {
+    "iata": "CN",
+    "icao": "GDC",
+    "name": "Grand China Air Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GDC.png"
+  },
+  {
+    "iata": "CO",
+    "icao": "CNW",
+    "name": "North",
+    "logo": "https://www.avcodes.co.uk/images/logos/CNW.png"
+  },
+  {
+    "iata": "CP*",
+    "icao": "LSI",
+    "name": "Aliscargo Airlines S.p.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LSI.png"
+  },
+  {
+    "iata": "CQ",
+    "icao": "CSV",
+    "name": "Coastal Travels Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSV.png"
+  },
+  {
+    "iata": "CQ*",
+    "icao": "",
+    "name": "Charterlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/charterlines.png"
+  },
+  {
+    "iata": "CR",
+    "icao": "ABC",
+    "name": "UBM Aviation",
+    "logo": "https://www.avcodes.co.uk/images/logos/OAG.png"
+  },
+  {
+    "iata": "CS",
+    "icao": "CXB",
+    "name": "Comlux Aruba N.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CXB.png"
+  },
+  {
+    "iata": "CT",
+    "icao": "CYL",
+    "name": "Alitalia Cityliner S.p.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CYL.png"
+  },
+  {
+    "iata": "CT*",
+    "icao": "AAE",
+    "name": "Air Atlanta Europe Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAE.png"
+  },
+  {
+    "iata": "CU",
+    "icao": "CUB",
+    "name": "Cubana de Aviacion, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CUB.png"
+  },
+  {
+    "iata": "CV",
+    "icao": "CLX",
+    "name": "Cargolux Airlines International, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CLX.png"
+  },
+  {
+    "iata": "CW",
+    "icao": "SCW",
+    "name": "SkyWest Charter LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/SCW.png"
+  },
+  {
+    "iata": "CX",
+    "icao": "CPA",
+    "name": "Cathay Pacific Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CPA.png"
+  },
+  {
+    "iata": "CY",
+    "icao": "CYP",
+    "name": "Charlie Airlines Ltd. t/a Cyprus Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/CYP.png"
+  },
+  {
+    "iata": "CZ",
+    "icao": "CSN",
+    "name": "China Southern Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSN.png"
+  },
+  {
+    "iata": "D0",
+    "icao": "DHK",
+    "name": "DHL Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/DHK.png"
+  },
+  {
+    "iata": "D1",
+    "icao": "",
+    "name": "AIR4 Passenger Service Systems, LLC",
+    "logo": ""
+  },
+  {
+    "iata": "D2*",
+    "icao": "SSF",
+    "name": "Severstal Aircompany Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SSF.png"
+  },
+  {
+    "iata": "D3",
+    "icao": "DAO",
+    "name": "Daallo Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAO.png"
+  },
+  {
+    "iata": "D4",
+    "icao": "GEL",
+    "name": "Airline Geo Sky LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/GEL.png"
+  },
+  {
+    "iata": "D5*",
+    "icao": "DAE",
+    "name": "DHL Aero Expreso, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAE.png"
+  },
+  {
+    "iata": "D6",
+    "icao": "GCA",
+    "name": "Servicios Aereos GECA S.A. d/b/a GECA",
+    "logo": ""
+  },
+  {
+    "iata": "D7",
+    "icao": "XAX",
+    "name": "Airasia X Berhad d/b/a Airasia X",
+    "logo": "https://www.avcodes.co.uk/images/logos/XAX.png"
+  },
+  {
+    "iata": "D8",
+    "icao": "NSZ",
+    "name": "Norwegian Air Sweden AOC AB",
+    "logo": "https://www.avcodes.co.uk/images/logos/NSZ.png"
+  },
+  {
+    "iata": "D8",
+    "icao": "IBK",
+    "name": "Norwegian Air International Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/IBK.png"
+  },
+  {
+    "iata": "D9",
+    "icao": "DMQ",
+    "name": "Daallo Airlines (Somalia)",
+    "logo": ""
+  },
+  {
+    "iata": "DB",
+    "icao": "MLT",
+    "name": "Maleth",
+    "logo": "https://www.avcodes.co.uk/images/logos/MLT.png"
+  },
+  {
+    "iata": "DD",
+    "icao": "NOK",
+    "name": "Nok Airlines Public Co., Ltd. d/b/a Nok Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/NOK.png"
+  },
+  {
+    "iata": "DE",
+    "icao": "CFG",
+    "name": "Condor Flugdienst GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/CFG.png"
+  },
+  {
+    "iata": "DG",
+    "icao": "SRQ",
+    "name": "Cebgo Inc. d/b/a Cebgo",
+    "logo": "https://www.avcodes.co.uk/images/logos/SRQ.png"
+  },
+  {
+    "iata": "DH*",
+    "icao": "NAN",
+    "name": "Norwegian Air Norway AS",
+    "logo": "https://www.avcodes.co.uk/images/logos/NAN.png"
+  },
+  {
+    "iata": "DI",
+    "icao": "MBU",
+    "name": "Marabu Airlines OÜ",
+    "logo": "https://www.avcodes.co.uk/images/logos/MBU.png"
+  },
+  {
+    "iata": "DJ",
+    "icao": "DJI",
+    "name": "Air Djibouti SAS",
+    "logo": "https://www.avcodes.co.uk/images/logos/DJI.png"
+  },
+  {
+    "iata": "DJ*",
+    "icao": "SRR",
+    "name": "Maersk Air Cargo A/S",
+    "logo": "https://www.avcodes.co.uk/images/logos/maerskaircargo.png"
+  },
+  {
+    "iata": "DK",
+    "icao": "VKG",
+    "name": "SunClass Airlines ApS",
+    "logo": "https://www.avcodes.co.uk/images/logos/VKG.png"
+  },
+  {
+    "iata": "DL",
+    "icao": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAL.png"
+  },
+  {
+    "iata": "DM",
+    "icao": "DWI",
+    "name": "DW Dominican Wings. S.A. d/b/a Arajet",
+    "logo": "https://www.avcodes.co.uk/images/logos/arajet.png"
+  },
+  {
+    "iata": "DN",
+    "icao": "NAA",
+    "name": "Norwegian Air Argentina S.A.U.",
+    "logo": "https://www.avcodes.co.uk/images/logos/Norwegian_AR.png"
+  },
+  {
+    "iata": "DN*",
+    "icao": "JOC",
+    "name": "Dan Air (AOC) S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JOC.png"
+  },
+  {
+    "iata": "DO",
+    "icao": "SHH",
+    "name": "Sky High Aviation Services S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SHH.png"
+  },
+  {
+    "iata": "DP",
+    "icao": "PBD",
+    "name": "Pobeda Airlines LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/PBD.png"
+  },
+  {
+    "iata": "DQ",
+    "icao": "KHH",
+    "name": "Alexandria Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/KHH.png"
+  },
+  {
+    "iata": "DR",
+    "icao": "RLH",
+    "name": "Sunan Ruili Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RLH.png"
+  },
+  {
+    "iata": "DS",
+    "icao": "EZS",
+    "name": "Easyjet Switzerland S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/EZS.png"
+  },
+  {
+    "iata": "DS*",
+    "icao": "",
+    "name": "DAS Nordisk Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/nordisk.png"
+  },
+  {
+    "iata": "DT",
+    "icao": "DTA",
+    "name": "TAAG",
+    "logo": "https://www.avcodes.co.uk/images/logos/DTA.gif"
+  },
+  {
+    "iata": "DU",
+    "icao": "",
+    "name": "Sky Jet M.G. Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/skyjet_ca.png"
+  },
+  {
+    "iata": "DV",
+    "icao": "VSV",
+    "name": "PLL Scat Aircompany",
+    "logo": "https://www.avcodes.co.uk/images/logos/VSV.jpg"
+  },
+  {
+    "iata": "DX*",
+    "icao": "DTR",
+    "name": "Danish Air Transport",
+    "logo": "https://www.avcodes.co.uk/images/logos/DTR.png"
+  },
+  {
+    "iata": "DY",
+    "icao": "NAX",
+    "name": "Norwegian Air Shuttle A.S. t/a Norwegian",
+    "logo": "https://www.avcodes.co.uk/images/logos/NAX.png"
+  },
+  {
+    "iata": "DZ",
+    "icao": "EPA",
+    "name": "Donghai Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/EPA.png"
+  },
+  {
+    "iata": "E2",
+    "icao": "EWE",
+    "name": "Eurowings Europe GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/EWE.png"
+  },
+  {
+    "iata": "E4",
+    "icao": "ABJ",
+    "name": "ATA",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABJ.png"
+  },
+  {
+    "iata": "E4*",
+    "icao": "ENT",
+    "name": "Enter Air Sp. z.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ENT.png"
+  },
+  {
+    "iata": "E5",
+    "icao": "RBG",
+    "name": "Air Arabia Egypt",
+    "logo": "https://www.avcodes.co.uk/images/logos/RBG.png"
+  },
+  {
+    "iata": "E6*",
+    "icao": "BCT",
+    "name": "Bringer Air Cargo Taxi Aereo Ltda.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BCT.png"
+  },
+  {
+    "iata": "E7",
+    "icao": "EKA",
+    "name": "Equaflight Service",
+    "logo": "https://www.avcodes.co.uk/images/logos/EKA.png"
+  },
+  {
+    "iata": "E7*",
+    "icao": "ESF",
+    "name": "Estafeta Carga Aerea, S.A. de C.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ESF.jpg"
+  },
+  {
+    "iata": "E9",
+    "icao": "EVE",
+    "name": "Evelop Airlines S.L. d/b/a iberojet",
+    "logo": "https://www.avcodes.co.uk/images/logos/EVE.png"
+  },
+  {
+    "iata": "EA",
+    "icao": "EAI",
+    "name": "Emerald Airlines (Ireland) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/EAI.png"
+  },
+  {
+    "iata": "EA*",
+    "icao": "",
+    "name": "Atlantis",
+    "logo": "https://www.avcodes.co.uk/images/logos/atlantis-air.png"
+  },
+  {
+    "iata": "EB",
+    "icao": "PLM",
+    "name": "Wamos Air, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PLM.png"
+  },
+  {
+    "iata": "EC*",
+    "icao": "EJU",
+    "name": "easyJet Europe Airline GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/EJU.png"
+  },
+  {
+    "iata": "ED",
+    "icao": "AXE",
+    "name": "AirExplore, s.r.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AXE.png"
+  },
+  {
+    "iata": "EE",
+    "icao": "EST",
+    "name": "Regional Jet Ou d/b/a Xfly",
+    "logo": "https://www.avcodes.co.uk/images/logos/EST.png"
+  },
+  {
+    "iata": "EF",
+    "icao": "CPR",
+    "name": "Aerolinea del Caribe",
+    "logo": "https://www.avcodes.co.uk/images/logos/CPR.png"
+  },
+  {
+    "iata": "EG",
+    "icao": "EUK",
+    "name": "Aer Lingus (U.K.) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/EIN.png"
+  },
+  {
+    "iata": "EH",
+    "icao": "AKX",
+    "name": "ANA Wings Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AKX.png"
+  },
+  {
+    "iata": "EI",
+    "icao": "EIN",
+    "name": "Aer Lingus Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/EIN.png"
+  },
+  {
+    "iata": "EJ*",
+    "icao": "",
+    "name": "European Cargo Services BV",
+    "logo": "https://www.avcodes.co.uk/images/logos/ecsams.png"
+  },
+  {
+    "iata": "EK",
+    "icao": "UAE",
+    "name": "Emirates",
+    "logo": "https://www.avcodes.co.uk/images/logos/UAE.png"
+  },
+  {
+    "iata": "EL",
+    "icao": "RIE",
+    "name": "Ariella S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RIE.png"
+  },
+  {
+    "iata": "EM",
+    "icao": "CFS",
+    "name": "Empire Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CFS.png"
+  },
+  {
+    "iata": "EN",
+    "icao": "DLA",
+    "name": "Air Dolomiti S.p.A. Linee Aeree Regionali Europee",
+    "logo": "https://www.avcodes.co.uk/images/logos/DLA.png"
+  },
+  {
+    "iata": "EO",
+    "icao": "KAR",
+    "name": "Ikar, LLC t/a Pegas Fly",
+    "logo": "https://www.avcodes.co.uk/images/logos/KAR.png"
+  },
+  {
+    "iata": "EP",
+    "icao": "IRC",
+    "name": "Iran Aseman Airline",
+    "logo": "https://www.avcodes.co.uk/images/logos/IRC.png"
+  },
+  {
+    "iata": "ER",
+    "icao": "SEP",
+    "name": "Serene Air (Private) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEP.png"
+  },
+  {
+    "iata": "ES",
+    "icao": "ETR",
+    "name": "Estelar Latinoamerica C.A. d/b/a Estelar",
+    "logo": "https://www.avcodes.co.uk/images/logos/ETR.png"
+  },
+  {
+    "iata": "ES*",
+    "icao": "DHX",
+    "name": "DHL Aviation EEMEA B.S.C(c)",
+    "logo": "https://www.avcodes.co.uk/images/logos/DHX.png"
+  },
+  {
+    "iata": "ET",
+    "icao": "ETH",
+    "name": "Ethiopian Airlines Group d/b/a Ethiopian Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/ETH.png"
+  },
+  {
+    "iata": "EU",
+    "icao": "UEA",
+    "name": "Chengdu Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/UEA.png"
+  },
+  {
+    "iata": "EW",
+    "icao": "EWG",
+    "name": "Eurowings GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/EWG.png"
+  },
+  {
+    "iata": "EX",
+    "icao": "AVR",
+    "name": "Regional Express Americas SAS",
+    "logo": "https://www.avcodes.co.uk/images/logos/AVA.png"
+  },
+  {
+    "iata": "EY",
+    "icao": "ETD",
+    "name": "Etihad Airways d/b/a Etihad",
+    "logo": "https://www.avcodes.co.uk/images/logos/ETD.png"
+  },
+  {
+    "iata": "EZ*",
+    "icao": "SUS",
+    "name": "Sun Air of Scandinavia A/S",
+    "logo": "https://www.avcodes.co.uk/images/logos/SUS.png"
+  },
+  {
+    "iata": "F0*",
+    "icao": "FJR",
+    "name": "Solitaire Air Ltd. Co. (d/b/a Fly Jordan)",
+    "logo": "https://www.avcodes.co.uk/images/logos/FJR.png"
+  },
+  {
+    "iata": "F1",
+    "icao": "",
+    "name": "Farelogix Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/farelogix.png"
+  },
+  {
+    "iata": "F2*",
+    "icao": "XLK",
+    "name": "Safarilink Aviation Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/XLK.png"
+  },
+  {
+    "iata": "F3",
+    "icao": "FAD",
+    "name": "flyadeal Airline Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/FAD.png"
+  },
+  {
+    "iata": "F4",
+    "icao": "",
+    "name": "Air Charter, Inc. d/b/a Air Flamenco",
+    "logo": "https://www.avcodes.co.uk/images/logos/airflamenco.png"
+  },
+  {
+    "iata": "F5",
+    "icao": "ATG",
+    "name": "Aerotranscargo SRL",
+    "logo": ""
+  },
+  {
+    "iata": "F6",
+    "icao": "VAW",
+    "name": "Fly2Sky o.o.d.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VAW.png"
+  },
+  {
+    "iata": "F7",
+    "icao": "RSY",
+    "name": "The Airline iFly",
+    "logo": "https://www.avcodes.co.uk/images/logos/RSY.png"
+  },
+  {
+    "iata": "F8",
+    "icao": "FLE",
+    "name": "Flair Airlines Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/FLE.png"
+  },
+  {
+    "iata": "F9",
+    "icao": "FFT",
+    "name": "Frontier Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FFT.png"
+  },
+  {
+    "iata": "FA",
+    "icao": "SFR",
+    "name": "Safair Operations (Proprietary) Ltd. dba Safair",
+    "logo": "https://www.avcodes.co.uk/images/logos/SFR.png"
+  },
+  {
+    "iata": "FB",
+    "icao": "LZB",
+    "name": "Bulgaria Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/LZB.png"
+  },
+  {
+    "iata": "FC",
+    "icao": "",
+    "name": "Vee H Aviation Pty Ltd. t/a LINK Airways / Fly FC",
+    "logo": "https://www.avcodes.co.uk/images/logos/corporate-air.png"
+  },
+  {
+    "iata": "FD",
+    "icao": "AIQ",
+    "name": "Thai AirAsia Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIQ.png"
+  },
+  {
+    "iata": "FE",
+    "icao": "IHO",
+    "name": "Seven Four Eight Air Services (K) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/IHO.png"
+  },
+  {
+    "iata": "FF*",
+    "icao": "",
+    "name": "Airshop B.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/airshop.gif"
+  },
+  {
+    "iata": "FG",
+    "icao": "AFG",
+    "name": "Ariana Afghan Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/AFG.png"
+  },
+  {
+    "iata": "FH",
+    "icao": "FHY",
+    "name": "Hurkus Havayolu Tasimacilik Ve Ticaret S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FHY.png"
+  },
+  {
+    "iata": "FI",
+    "icao": "ICE",
+    "name": "Icelandair",
+    "logo": "https://www.avcodes.co.uk/images/logos/ICE.png"
+  },
+  {
+    "iata": "FJ",
+    "icao": "FJI",
+    "name": "Air Pacific Ltd. t/a Fiji Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/FJI.png"
+  },
+  {
+    "iata": "FK",
+    "icao": "KFA",
+    "name": "Kelowna Flightcraft Air Charter Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/kelowna.gif"
+  },
+  {
+    "iata": "FL",
+    "icao": "LIL",
+    "name": "SC Fly Lili S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LIL.png"
+  },
+  {
+    "iata": "FM",
+    "icao": "CSH",
+    "name": "Shanghai Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSH.png"
+  },
+  {
+    "iata": "FN",
+    "icao": "FJW",
+    "name": "fastjet Zimbabwe Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/FJW.png"
+  },
+  {
+    "iata": "FO",
+    "icao": "FBZ",
+    "name": "F.B. Lineas Aereas S.A. t/a Flybondi",
+    "logo": "https://www.avcodes.co.uk/images/logos/FBD.png"
+  },
+  {
+    "iata": "FO*",
+    "icao": "UKA",
+    "name": "Aero Flightops UK Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/UKA.png"
+  },
+  {
+    "iata": "FP",
+    "icao": "",
+    "name": "Pelican Airlines Pty Ltd t/a FlyPelican",
+    "logo": "https://www.avcodes.co.uk/images/logos/flypelican.png"
+  },
+  {
+    "iata": "FP*",
+    "icao": "PVV",
+    "name": "CA Fly Pro SRL",
+    "logo": "https://www.avcodes.co.uk/images/logos/PVV.png"
+  },
+  {
+    "iata": "FR",
+    "icao": "RYR",
+    "name": "Ryanair Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RYR.png"
+  },
+  {
+    "iata": "FS*",
+    "icao": "FPK",
+    "name": "M/S Air Falcon (Pvt) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FPK.png"
+  },
+  {
+    "iata": "FT",
+    "icao": "FEG",
+    "name": "flyegypt",
+    "logo": "https://www.avcodes.co.uk/images/logos/FEG.png"
+  },
+  {
+    "iata": "FU",
+    "icao": "FZA",
+    "name": "Fuzhou Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FZA.png"
+  },
+  {
+    "iata": "FV",
+    "icao": "SDM",
+    "name": "Rossiya Airlines JSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/SDM.png"
+  },
+  {
+    "iata": "FW",
+    "icao": "IBX",
+    "name": "Ibex Airlines Co., Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/IBX.png"
+  },
+  {
+    "iata": "FW*",
+    "icao": "MFJ",
+    "name": "Solenta Aviation Mozambique",
+    "logo": "https://www.avcodes.co.uk/images/logos/SET.gif"
+  },
+  {
+    "iata": "FX",
+    "icao": "FDX",
+    "name": "Federal Express Corporation d/b/a FedEx",
+    "logo": "https://www.avcodes.co.uk/images/logos/FDX.png"
+  },
+  {
+    "iata": "FY",
+    "icao": "FFM",
+    "name": "FlyFirefly Sdn. Bhd",
+    "logo": "https://www.avcodes.co.uk/images/logos/FFM.png"
+  },
+  {
+    "iata": "FZ",
+    "icao": "FDB",
+    "name": "Dubai Aviation Corporation d/b/a flydubai",
+    "logo": "https://www.avcodes.co.uk/images/logos/FDB.png"
+  },
+  {
+    "iata": "G0",
+    "icao": "GAL",
+    "name": "Allanza Glancelot C.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GAL.png"
+  },
+  {
+    "iata": "G2",
+    "icao": "GBG",
+    "name": "GullivAir Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TJJ.png"
+  },
+  {
+    "iata": "G3",
+    "icao": "GLO",
+    "name": "GOL Linhas Aereas Inteligentes",
+    "logo": "https://www.avcodes.co.uk/images/logos/GLO.png"
+  },
+  {
+    "iata": "G4",
+    "icao": "AAY",
+    "name": "Allegiant Air LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAY.gif"
+  },
+  {
+    "iata": "G5",
+    "icao": "HXA",
+    "name": "China Express Airlines Co., Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/HXA.png"
+  },
+  {
+    "iata": "G6",
+    "icao": "ACY",
+    "name": "Armenian National Airlines CLSC d/b/a FLY ARNA",
+    "logo": "https://www.avcodes.co.uk/images/logos/flyarna.png"
+  },
+  {
+    "iata": "G6*",
+    "icao": "GXA",
+    "name": "Global Crossing Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GXA.png"
+  },
+  {
+    "iata": "G7",
+    "icao": "GJS",
+    "name": "GoJet Airlines LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/GJS.png"
+  },
+  {
+    "iata": "G9",
+    "icao": "ABY",
+    "name": "Air Arabia PJSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABY.png"
+  },
+  {
+    "iata": "GA",
+    "icao": "GIA",
+    "name": "Garuda Indonesia",
+    "logo": "https://www.avcodes.co.uk/images/logos/GIA.png"
+  },
+  {
+    "iata": "GB",
+    "icao": "ABX",
+    "name": "ABX Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABX.png"
+  },
+  {
+    "iata": "GC",
+    "icao": "",
+    "name": "Global Feeder Services, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/GFS-logo.png"
+  },
+  {
+    "iata": "GD",
+    "icao": "",
+    "name": "Aviair Pty Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/aviair.png"
+  },
+  {
+    "iata": "GE",
+    "icao": "GBB",
+    "name": "Global Aviation Operations (Pty) Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/GBB.png"
+  },
+  {
+    "iata": "GF",
+    "icao": "GFA",
+    "name": "Gulf Air Company G.S.C.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GFA.png"
+  },
+  {
+    "iata": "GG",
+    "icao": "KYE",
+    "name": "Sky Lease I, Inc. t/a Sky Lease Cargo",
+    "logo": "https://www.avcodes.co.uk/images/logos/KYE.png"
+  },
+  {
+    "iata": "GH",
+    "icao": "IGT",
+    "name": "Georgian Airlines LLC d/b/a Aircompany Georgian Airlines",
+    "logo": ""
+  },
+  {
+    "iata": "GH*",
+    "icao": "GTR",
+    "name": "Galistair Trading Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/GTR.png"
+  },
+  {
+    "iata": "GI",
+    "icao": "LHA",
+    "name": "China Central Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LHA.png"
+  },
+  {
+    "iata": "GJ",
+    "icao": "CDC",
+    "name": "Zhejiang Loong Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CDC.png"
+  },
+  {
+    "iata": "GK",
+    "icao": "JJP",
+    "name": "Jetstar Japan",
+    "logo": "https://www.avcodes.co.uk/images/logos/JJP.png"
+  },
+  {
+    "iata": "GL",
+    "icao": "GRL",
+    "name": "Air Greenland A/S",
+    "logo": "https://www.avcodes.co.uk/images/logos/GRL.png"
+  },
+  {
+    "iata": "GM",
+    "icao": "TMG",
+    "name": "Tri",
+    "logo": "https://www.avcodes.co.uk/images/logos/TMG.png"
+  },
+  {
+    "iata": "GM*",
+    "icao": "GSW",
+    "name": "Chair Airlines AG t/a chair",
+    "logo": "https://www.avcodes.co.uk/images/logos/GSW.png"
+  },
+  {
+    "iata": "GO*",
+    "icao": "KZU",
+    "name": "ULS Havayollair Kargo Tasimacilik A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/KZU.png"
+  },
+  {
+    "iata": "GP",
+    "icao": "RIV",
+    "name": "APG Airlines",
+    "logo": ""
+  },
+  {
+    "iata": "GQ",
+    "icao": "SEH",
+    "name": "Sky Express S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEH.png"
+  },
+  {
+    "iata": "GR",
+    "icao": "AUR",
+    "name": "Aurigny Air Services Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AUR.png"
+  },
+  {
+    "iata": "GS",
+    "icao": "GCR",
+    "name": "Tianjin Airlines Co. Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/GCR.png"
+  },
+  {
+    "iata": "GT",
+    "icao": "CGH",
+    "name": "Air Guilin Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CGH.png"
+  },
+  {
+    "iata": "GU",
+    "icao": "GUG",
+    "name": "AVIATECA, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GUG.png"
+  },
+  {
+    "iata": "GV*",
+    "icao": "GUN",
+    "name": "Grant Aviation, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GUN.png"
+  },
+  {
+    "iata": "GW",
+    "icao": "",
+    "name": "Costa Rica GREEN AIRWAYS S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CR_green_airways.png"
+  },
+  {
+    "iata": "GW*",
+    "icao": "GJT",
+    "name": "GetJet Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/GJT.png"
+  },
+  {
+    "iata": "GX",
+    "icao": "CBG",
+    "name": "Guangxi Beibu Gulf Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CBG.png"
+  },
+  {
+    "iata": "GY",
+    "icao": "CGZ",
+    "name": "Colorful GuiZhou Airlines Co., Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/CGZ.png"
+  },
+  {
+    "iata": "GZ",
+    "icao": "",
+    "name": "Air Rarotonga",
+    "logo": "https://www.avcodes.co.uk/images/logos/air_rarotonga.jpg"
+  },
+  {
+    "iata": "H1",
+    "icao": "",
+    "name": "Hahn Air Systems",
+    "logo": "https://www.avcodes.co.uk/images/logos/HHN.png"
+  },
+  {
+    "iata": "H2",
+    "icao": "SKU",
+    "name": "Sky Airline S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SKU.png"
+  },
+  {
+    "iata": "H3",
+    "icao": "HLJ",
+    "name": "Hello Jets S.r.l.",
+    "logo": ""
+  },
+  {
+    "iata": "H4",
+    "icao": "HYS",
+    "name": "HiSky Europe",
+    "logo": "https://www.avcodes.co.uk/images/logos/HYS.png"
+  },
+  {
+    "iata": "H6",
+    "icao": "BUC",
+    "name": "European Air Charter Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BUC.png"
+  },
+  {
+    "iata": "H7",
+    "icao": "HYM",
+    "name": "CA HiSky SRL",
+    "logo": "https://www.avcodes.co.uk/images/logos/hisky.png"
+  },
+  {
+    "iata": "H8",
+    "icao": "SKX",
+    "name": "Sky Airline Peru S.A.C.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SKX.png"
+  },
+  {
+    "iata": "H9",
+    "icao": "HIM",
+    "name": "Himalaya Airlines Pvt. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HIM.png"
+  },
+  {
+    "iata": "HA",
+    "icao": "HAL",
+    "name": "Hawaiian Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/HAL.png"
+  },
+  {
+    "iata": "HA*",
+    "icao": "HYA",
+    "name": "Al",
+    "logo": "https://www.avcodes.co.uk/images/logos/HYA.png"
+  },
+  {
+    "iata": "HB",
+    "icao": "HGB",
+    "name": "Greater Bay Airlines Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/HGB.png"
+  },
+  {
+    "iata": "HC",
+    "icao": "SZN",
+    "name": "Air Senegal S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SZN.png"
+  },
+  {
+    "iata": "HC*",
+    "icao": "HGO",
+    "name": "One Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/HGO.png"
+  },
+  {
+    "iata": "HD",
+    "icao": "ADO",
+    "name": "Air Do Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ADO.gif"
+  },
+  {
+    "iata": "HF",
+    "icao": "VRE",
+    "name": "Air Cote d Ivoire",
+    "logo": "https://www.avcodes.co.uk/images/logos/VRE.png"
+  },
+  {
+    "iata": "HG",
+    "icao": "HTP",
+    "name": "Hala Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/HTP.png"
+  },
+  {
+    "iata": "HG*",
+    "icao": "HBN",
+    "name": "Hibernian Airlines Limited",
+    "logo": ""
+  },
+  {
+    "iata": "HH",
+    "icao": "QNT",
+    "name": "Limited Liability Company Qanot Sharq",
+    "logo": "https://www.avcodes.co.uk/images/logos/QNT.png"
+  },
+  {
+    "iata": "HI",
+    "icao": "",
+    "name": "Papillon Airways, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/papillon.png"
+  },
+  {
+    "iata": "HJ*",
+    "icao": "TMN",
+    "name": "Tasman Cargo Airlines Pty Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/TMN.png"
+  },
+  {
+    "iata": "HK",
+    "icao": "",
+    "name": "Skippers Aviation Pty Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/skippers.png"
+  },
+  {
+    "iata": "HM",
+    "icao": "SEY",
+    "name": "Air Seychelles Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEY.png"
+  },
+  {
+    "iata": "HN",
+    "icao": "EQX",
+    "name": "Equinoxair S.A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/EQX.png"
+  },
+  {
+    "iata": "HN*",
+    "icao": "HST",
+    "name": "UAB Heston Airlines JSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/HST.png"
+  },
+  {
+    "iata": "HO",
+    "icao": "DKH",
+    "name": "Juneyao Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DKH.png"
+  },
+  {
+    "iata": "HP",
+    "icao": "APF",
+    "name": "Amapola Flyg AB",
+    "logo": "https://www.avcodes.co.uk/images/logos/APF.png"
+  },
+  {
+    "iata": "HQ",
+    "icao": "ADZ",
+    "name": "Compass Cargo Airlines Ltd.",
+    "logo": ""
+  },
+  {
+    "iata": "HR",
+    "icao": "HHN",
+    "name": "Hahn Air Lines",
+    "logo": "https://www.avcodes.co.uk/images/logos/HHN.png"
+  },
+  {
+    "iata": "HS",
+    "icao": "HLI",
+    "name": "Heli Securite Helicopter Airline",
+    "logo": "https://www.avcodes.co.uk/images/logos/HLI.png"
+  },
+  {
+    "iata": "HT",
+    "icao": "CTJ",
+    "name": "Tianjin Air Cargo Co., Ltd.",
+    "logo": ""
+  },
+  {
+    "iata": "HT*",
+    "icao": "HAT",
+    "name": "Air Horizont",
+    "logo": "https://www.avcodes.co.uk/images/logos/HAT.png"
+  },
+  {
+    "iata": "HU",
+    "icao": "CHH",
+    "name": "Hainan Airlines Holding Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CHH.png"
+  },
+  {
+    "iata": "HV",
+    "icao": "TRA",
+    "name": "Transavia",
+    "logo": "https://www.avcodes.co.uk/images/logos/TRA.png"
+  },
+  {
+    "iata": "HW",
+    "icao": "NWL",
+    "name": "North",
+    "logo": "https://www.avcodes.co.uk/images/logos/NWL.png"
+  },
+  {
+    "iata": "HX",
+    "icao": "CRK",
+    "name": "Hong Kong Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CRK.png"
+  },
+  {
+    "iata": "HY",
+    "icao": "UZB",
+    "name": "Uzbekistan Airways Joint Stock Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/UZB.png"
+  },
+  {
+    "iata": "HZ",
+    "icao": "SHU",
+    "name": "Joint",
+    "logo": "https://www.avcodes.co.uk/images/logos/SHU.png"
+  },
+  {
+    "iata": "I2",
+    "icao": "IBS",
+    "name": "Compania Operadora de Corto y Medio Radio Iberia Express, S.A.U",
+    "logo": "https://www.avcodes.co.uk/images/logos/IBS.png"
+  },
+  {
+    "iata": "I3",
+    "icao": "",
+    "name": "innoAviation Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/innoaviation.png"
+  },
+  {
+    "iata": "I4",
+    "icao": "",
+    "name": "Scott Air, LLC d/b/a Island Air Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/iax_logo.png"
+  },
+  {
+    "iata": "I5",
+    "icao": "IAD",
+    "name": "AIX Connect Private Limited t/a AirAsia India",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAD.png"
+  },
+  {
+    "iata": "I6",
+    "icao": "",
+    "name": "Intermodalidad de Levante S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ILSA.png"
+  },
+  {
+    "iata": "I7",
+    "icao": "IOA",
+    "name": "GSEC Monarch and Deccan Aviation Private Limited d/b/a IndiaOne Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/indiaoneair.png"
+  },
+  {
+    "iata": "I8",
+    "icao": "IZA",
+    "name": "Izhavia Public Stock Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/IZA.png"
+  },
+  {
+    "iata": "I9",
+    "icao": "HLF",
+    "name": "Central Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HLF.png"
+  },
+  {
+    "iata": "IA",
+    "icao": "IAW",
+    "name": "Iraqi Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAW.png"
+  },
+  {
+    "iata": "IB",
+    "icao": "IBE",
+    "name": "Iberia",
+    "logo": "https://www.avcodes.co.uk/images/logos/IBE.png"
+  },
+  {
+    "iata": "ID",
+    "icao": "BTK",
+    "name": "PT. Batik Air Indonesia d/b/a Batik Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/BTK.png"
+  },
+  {
+    "iata": "IE",
+    "icao": "SOL",
+    "name": "Solomon Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SOL.png"
+  },
+  {
+    "iata": "IF",
+    "icao": "FBA",
+    "name": "Fly Baghdad",
+    "logo": "https://www.avcodes.co.uk/images/logos/FBA.png"
+  },
+  {
+    "iata": "IF*",
+    "icao": "TSU",
+    "name": "Gulf and Caribbean Cargo, Inc. d/b/a IFL Group",
+    "logo": "https://www.avcodes.co.uk/images/logos/TSU.png"
+  },
+  {
+    "iata": "IF*",
+    "icao": "",
+    "name": "Gulf & Caribbean Cargo, Inc d/b/a Gulf & Caribbean Air",
+    "logo": ""
+  },
+  {
+    "iata": "IG",
+    "icao": "ISS",
+    "name": "Air Italy S.p.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ISS.png"
+  },
+  {
+    "iata": "IH",
+    "icao": "SRS",
+    "name": "Southern Sky Airlines",
+    "logo": ""
+  },
+  {
+    "iata": "II",
+    "icao": "CSQ",
+    "name": "IBC Airways, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSQ.png"
+  },
+  {
+    "iata": "IJ",
+    "icao": "SJO",
+    "name": "Spring Japan Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SJO.png"
+  },
+  {
+    "iata": "IK",
+    "icao": "AKL",
+    "name": "Air Kiribati Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AKL.png"
+  },
+  {
+    "iata": "IL",
+    "icao": "TGN",
+    "name": "Trigana Air Service P.T.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TGN.png"
+  },
+  {
+    "iata": "IM*",
+    "icao": "JPJ",
+    "name": "Aircompany Jupiter Jet LLP",
+    "logo": "https://www.avcodes.co.uk/images/logos/JPj.png"
+  },
+  {
+    "iata": "IN",
+    "icao": "LKN",
+    "name": "PT. Nam Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/LKN.png"
+  },
+  {
+    "iata": "IO",
+    "icao": "IAE",
+    "name": "Closed Joint Stock Company IrAero",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAE.png"
+  },
+  {
+    "iata": "IP",
+    "icao": "PAS",
+    "name": "P.T. Pelita Air Service",
+    "logo": "https://www.avcodes.co.uk/images/logos/PAS.png"
+  },
+  {
+    "iata": "IQ",
+    "icao": "QAZ",
+    "name": "Qazaq Air Joint Stock Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/qazaq_air.png"
+  },
+  {
+    "iata": "IR",
+    "icao": "IRA",
+    "name": "Iran Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/IRA.png"
+  },
+  {
+    "iata": "IS",
+    "icao": "SHI",
+    "name": "Sepehran Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SHI.png"
+  },
+  {
+    "iata": "IT",
+    "icao": "TTW",
+    "name": "Tiger Airways Taiwan Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TTW.gif"
+  },
+  {
+    "iata": "IU",
+    "icao": "SJV",
+    "name": "PT. Super Air Jet",
+    "logo": "https://www.avcodes.co.uk/images/logos/SJV.png"
+  },
+  {
+    "iata": "IV",
+    "icao": "GPX",
+    "name": "GP Aviation E.o.o.d.",
+    "logo": ""
+  },
+  {
+    "iata": "IW",
+    "icao": "WON",
+    "name": "Wings Abadi Airlines, PT.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WON.png"
+  },
+  {
+    "iata": "IX*",
+    "icao": "AXB",
+    "name": "Air India Charters Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AXB.jpg"
+  },
+  {
+    "iata": "IY",
+    "icao": "IYE",
+    "name": "Yemenia",
+    "logo": "https://www.avcodes.co.uk/images/logos/IYE.png"
+  },
+  {
+    "iata": "IZ",
+    "icao": "AIZ",
+    "name": "Arkia Israeli Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIZ.png"
+  },
+  {
+    "iata": "J0*",
+    "icao": "BFL",
+    "name": "Buffalo Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BFL.png"
+  },
+  {
+    "iata": "J2",
+    "icao": "AHY",
+    "name": "Azerbaijan Airlines CJSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/AHY.png"
+  },
+  {
+    "iata": "J3",
+    "icao": "PLR",
+    "name": "Northwestern Air Lease Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PLR.jpg"
+  },
+  {
+    "iata": "J4",
+    "icao": "BDR",
+    "name": "Badr Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/BDR.png"
+  },
+  {
+    "iata": "J5",
+    "icao": "",
+    "name": "Kalinin Aviation, L.L.C. d/b/a Alaska Seaplanes",
+    "logo": "https://www.avcodes.co.uk/images/logos/alaska_seaplanes.png"
+  },
+  {
+    "iata": "J7",
+    "icao": "ABS",
+    "name": "Afrijet Business Services d/b/a Afrijet",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABS.png"
+  },
+  {
+    "iata": "J8",
+    "icao": "BVT",
+    "name": "Berjaya Air Sdn. Bhd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BVT.gif"
+  },
+  {
+    "iata": "J9*",
+    "icao": "JZR",
+    "name": "Jazeera Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/JZR.png"
+  },
+  {
+    "iata": "JA",
+    "icao": "JAT",
+    "name": "JetSMART SpA",
+    "logo": "https://www.avcodes.co.uk/images/logos/JAT.png"
+  },
+  {
+    "iata": "JC",
+    "icao": "JAC",
+    "name": "Japan Air Commuter Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JAC.png"
+  },
+  {
+    "iata": "JD",
+    "icao": "CBJ",
+    "name": "Beijing Capital Airlines Co., Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/CBJ.png"
+  },
+  {
+    "iata": "JE",
+    "icao": "MNO",
+    "name": "Mango Airlines (SOC) Ltd. t/a Mango",
+    "logo": "https://www.avcodes.co.uk/images/logos/MNO.png"
+  },
+  {
+    "iata": "JE*",
+    "icao": "",
+    "name": "Jettainer GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/jettainer.png"
+  },
+  {
+    "iata": "JF",
+    "icao": "OTT",
+    "name": "OTT Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/OTT.png"
+  },
+  {
+    "iata": "JG",
+    "icao": "JDL",
+    "name": "Jiangsu Jingdong Cargo Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JDL.png"
+  },
+  {
+    "iata": "JG*",
+    "icao": "",
+    "name": "Airline Container Leasing, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/aclairshoplogo.png"
+  },
+  {
+    "iata": "JH",
+    "icao": "FDA",
+    "name": "Fuji Dream Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FDA.png"
+  },
+  {
+    "iata": "JI",
+    "icao": "AAG",
+    "name": "Armenian Airlines LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAG.png"
+  },
+  {
+    "iata": "JJ",
+    "icao": "TAM",
+    "name": "TAM Linhas Aereas S.A. d/b/a LATAM Airlines Brasil",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAM.png"
+  },
+  {
+    "iata": "JK",
+    "icao": "ACL",
+    "name": "Aercaribe Aerolina del Caribe, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ACL.png"
+  },
+  {
+    "iata": "JL",
+    "icao": "JAL",
+    "name": "Japan Airlines International Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JAL.png"
+  },
+  {
+    "iata": "JL*",
+    "icao": "JTL",
+    "name": "Jet Linx Aviation, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/JTL.png"
+  },
+  {
+    "iata": "JM",
+    "icao": "JMA",
+    "name": "Jambojet Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/JMA.png"
+  },
+  {
+    "iata": "JN",
+    "icao": "",
+    "name": "J and M Alaska Air Tours, Inc. d/b/a Alaska Air Transit",
+    "logo": "https://www.avcodes.co.uk/images/logos/alaska_air_transit.png"
+  },
+  {
+    "iata": "JO",
+    "icao": "RYW",
+    "name": "Royal Wings",
+    "logo": "https://www.avcodes.co.uk/images/logos/RYW.png"
+  },
+  {
+    "iata": "JQ",
+    "icao": "JST",
+    "name": "Jetstar Airways Pty Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/JST.png"
+  },
+  {
+    "iata": "JR",
+    "icao": "JOY",
+    "name": "Joy Air Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JOY.jpg"
+  },
+  {
+    "iata": "JS",
+    "icao": "KOR",
+    "name": "Air Koryo",
+    "logo": "https://www.avcodes.co.uk/images/logos/KOR.gif"
+  },
+  {
+    "iata": "JT*",
+    "icao": "LNI",
+    "name": "Lion Mentari Airlines, PT.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LNI.png"
+  },
+  {
+    "iata": "JU",
+    "icao": "ASL",
+    "name": "JSC for Air Traffic",
+    "logo": "https://www.avcodes.co.uk/images/logos/ASL.png"
+  },
+  {
+    "iata": "JU*",
+    "icao": "",
+    "name": "Jet Up Aviation, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/jetupaviation.png"
+  },
+  {
+    "iata": "JV",
+    "icao": "BLS",
+    "name": "Perimeter Aviation LP d/b/a Bearskin Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/BLS.jpg"
+  },
+  {
+    "iata": "JX",
+    "icao": "",
+    "name": "DAC Aviation (EC) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/dac_aviation.png"
+  },
+  {
+    "iata": "JY",
+    "icao": "IWY",
+    "name": "InterCaribbean Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/IWY.png"
+  },
+  {
+    "iata": "JY*",
+    "icao": "JYA",
+    "name": "National Air Charters, Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "JZ",
+    "icao": "JAP",
+    "name": "jetSMART Airlines Peru SAC",
+    "logo": "https://www.avcodes.co.uk/images/logos/JAP.png"
+  },
+  {
+    "iata": "K2",
+    "icao": "",
+    "name": "Paklook Air, Inc. d/b/a Airlift Alaska",
+    "logo": ""
+  },
+  {
+    "iata": "K3",
+    "icao": "SAQ",
+    "name": "SAC (K) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SAQ.jpg"
+  },
+  {
+    "iata": "K3*",
+    "icao": "TQN",
+    "name": "Venture Travel, LLC. t/a Taquan Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/TQN.jpg"
+  },
+  {
+    "iata": "K4",
+    "icao": "CKS",
+    "name": "Kalitta Air LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/CKS.png"
+  },
+  {
+    "iata": "K5*",
+    "icao": "KII",
+    "name": "Kalitta Charters II, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/KII.png"
+  },
+  {
+    "iata": "K6",
+    "icao": "KHV",
+    "name": "Cambodia Angkor Air Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/KHV.png"
+  },
+  {
+    "iata": "K7",
+    "icao": "KBZ",
+    "name": "Air KBZ Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/KBZ.png"
+  },
+  {
+    "iata": "K8*",
+    "icao": "IJW",
+    "name": "InterJet West, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/IJW.png"
+  },
+  {
+    "iata": "K9*",
+    "icao": "KFS",
+    "name": "Kalitta Charters LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/KFS.png"
+  },
+  {
+    "iata": "KA",
+    "icao": "ANK",
+    "name": "Aero Nomad Airlines, LLC",
+    "logo": ""
+  },
+  {
+    "iata": "KB",
+    "icao": "DRK",
+    "name": "Druk Air Corporation Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DRK.gif"
+  },
+  {
+    "iata": "KC",
+    "icao": "KZR",
+    "name": "Air Astana",
+    "logo": "https://www.avcodes.co.uk/images/logos/KZR.gif"
+  },
+  {
+    "iata": "KD*",
+    "icao": "WGN",
+    "name": "Western Global Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WGN.png"
+  },
+  {
+    "iata": "KE",
+    "icao": "KAL",
+    "name": "Korean Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/KAL.png"
+  },
+  {
+    "iata": "KF",
+    "icao": "ABB",
+    "name": "Air Belgium SA",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABB.png"
+  },
+  {
+    "iata": "KG",
+    "icao": "LYM",
+    "name": "Key Lime Air Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/LYM.png"
+  },
+  {
+    "iata": "KH",
+    "icao": "AAH",
+    "name": "Aeko Kula, Inc d/b/a Aloha Air Cargo",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAH.png"
+  },
+  {
+    "iata": "KI",
+    "icao": "SJB",
+    "name": "SKS Airways Sdn Bhd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SJB.png"
+  },
+  {
+    "iata": "KJ",
+    "icao": "AIH",
+    "name": "Air Incheon Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AIH.png"
+  },
+  {
+    "iata": "KK",
+    "icao": "NGN",
+    "name": "LEAV Aviation GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/NGN.png"
+  },
+  {
+    "iata": "KL",
+    "icao": "KLM",
+    "name": "KLM Royal Dutch Airlines (Koninklijke Luchtvaart Maatschappij N.V.)",
+    "logo": "https://www.avcodes.co.uk/images/logos/KLM.png"
+  },
+  {
+    "iata": "KM",
+    "icao": "AMC",
+    "name": "Air Malta p.l.c.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AMC.png"
+  },
+  {
+    "iata": "KN",
+    "icao": "CUA",
+    "name": "China United Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CUA.png"
+  },
+  {
+    "iata": "KO",
+    "icao": "KMA",
+    "name": "Komiaviatrans Open Joint Stock Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/KMA.png"
+  },
+  {
+    "iata": "KO*",
+    "icao": "AER",
+    "name": "Alaska Central Express, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AER.png"
+  },
+  {
+    "iata": "KP",
+    "icao": "SKK",
+    "name": "ASKY",
+    "logo": "https://www.avcodes.co.uk/images/logos/asky.png"
+  },
+  {
+    "iata": "KQ",
+    "icao": "KQA",
+    "name": "Kenya Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/KQA.png"
+  },
+  {
+    "iata": "KR",
+    "icao": "KME",
+    "name": "Cambodia Airways Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/KME.png"
+  },
+  {
+    "iata": "KS",
+    "icao": "KON",
+    "name": "Air Connect Aviation Group",
+    "logo": "https://www.avcodes.co.uk/images/logos/KON.png"
+  },
+  {
+    "iata": "KU",
+    "icao": "KAC",
+    "name": "Kuwait Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/KAC.png"
+  },
+  {
+    "iata": "KV",
+    "icao": "SSJ",
+    "name": "Krasavia, Joint",
+    "logo": "https://www.avcodes.co.uk/images/logos/SSJ.png"
+  },
+  {
+    "iata": "KW*",
+    "icao": "BSC",
+    "name": "AeroStan Aircompany",
+    "logo": ""
+  },
+  {
+    "iata": "KX",
+    "icao": "CAY",
+    "name": "Cayman Airways Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CAY.png"
+  },
+  {
+    "iata": "KY",
+    "icao": "KNA",
+    "name": "Kunming Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/KNA.png"
+  },
+  {
+    "iata": "KZ",
+    "icao": "NCA",
+    "name": "Nippon Cargo Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/NCA.png"
+  },
+  {
+    "iata": "L1",
+    "icao": "",
+    "name": "Searcharter Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/searcharter.png"
+  },
+  {
+    "iata": "L2",
+    "icao": "LYC",
+    "name": "Lynden Air Cargo, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/LYC.png"
+  },
+  {
+    "iata": "L3*",
+    "icao": "JOS",
+    "name": "DHL de Guatemala, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JOS.png"
+  },
+  {
+    "iata": "L4",
+    "icao": "",
+    "name": "The Landline Company",
+    "logo": ""
+  },
+  {
+    "iata": "L5",
+    "icao": "REA",
+    "name": "Red Air S.r.l.",
+    "logo": ""
+  },
+  {
+    "iata": "L6",
+    "icao": "MAI",
+    "name": "Mauritania Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAI.png"
+  },
+  {
+    "iata": "L7",
+    "icao": "LAE",
+    "name": "Lineas Aereas Carguera de Colombia S.A. d/b/a LATAM Cargo Colombia",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAE.png"
+  },
+  {
+    "iata": "L8",
+    "icao": "TON",
+    "name": "Lulutai Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/lulutai.png"
+  },
+  {
+    "iata": "L9",
+    "icao": "LWI",
+    "name": "Lumiwings S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LWI.png"
+  },
+  {
+    "iata": "L9*",
+    "icao": "BTZ",
+    "name": "Bristow US, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/BTZ.png"
+  },
+  {
+    "iata": "LA",
+    "icao": "LAN",
+    "name": "LATAM Airlines Chile",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAN.png"
+  },
+  {
+    "iata": "LB*",
+    "icao": "BVL",
+    "name": "Bul Air Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/BVL.png"
+  },
+  {
+    "iata": "LC",
+    "icao": "",
+    "name": "Grupo Corporativo Skyway. S.A.",
+    "logo": ""
+  },
+  {
+    "iata": "LC",
+    "icao": "NIS",
+    "name": "La Costeña S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NIS.png"
+  },
+  {
+    "iata": "LD*",
+    "icao": "AHK",
+    "name": "AHK Air Hong Kong Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AHK.png"
+  },
+  {
+    "iata": "LF",
+    "icao": "VTE",
+    "name": "Corporate Flight Management d/b/a Contour Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/VTE.png"
+  },
+  {
+    "iata": "LG",
+    "icao": "LGL",
+    "name": "Luxair",
+    "logo": "https://www.avcodes.co.uk/images/logos/LGL.png"
+  },
+  {
+    "iata": "LH",
+    "icao": "GEC",
+    "name": "Lufthansa Cargo AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/GEC.png"
+  },
+  {
+    "iata": "LH",
+    "icao": "DLH",
+    "name": "Deutsche Lufthansa AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/DLH.png"
+  },
+  {
+    "iata": "LI*",
+    "icao": "EZZ",
+    "name": "ETF Airways d.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/EZZ.png"
+  },
+  {
+    "iata": "LJ",
+    "icao": "JNA",
+    "name": "Jin Air Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JNA.png"
+  },
+  {
+    "iata": "LK",
+    "icao": "LLL",
+    "name": "Lao Skyway",
+    "logo": "https://www.avcodes.co.uk/images/logos/LLL.png"
+  },
+  {
+    "iata": "LL",
+    "icao": "",
+    "name": "China General Aviation Ltd",
+    "logo": ""
+  },
+  {
+    "iata": "LM",
+    "icao": "LOG",
+    "name": "Loganair Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/LOG.png"
+  },
+  {
+    "iata": "LN",
+    "icao": "LAA",
+    "name": "Libyan Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAA.png"
+  },
+  {
+    "iata": "LO",
+    "icao": "LOT",
+    "name": "LOT",
+    "logo": "https://www.avcodes.co.uk/images/logos/LOT.png"
+  },
+  {
+    "iata": "LP",
+    "icao": "LPE",
+    "name": "Lan Peru, S.A. d/b/a LATAM Airlines Peru",
+    "logo": "https://www.avcodes.co.uk/images/logos/LPE.png"
+  },
+  {
+    "iata": "LQ",
+    "icao": "MKR",
+    "name": "Lanmei Airlines (Cambodia) Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MKR.png"
+  },
+  {
+    "iata": "LR",
+    "icao": "LRC",
+    "name": "Avianca Costa Rica S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LRC.png"
+  },
+  {
+    "iata": "LS",
+    "icao": "EXS",
+    "name": "Jet2.com Limited t/a Jet2.com",
+    "logo": "https://www.avcodes.co.uk/images/logos/EXS.png"
+  },
+  {
+    "iata": "LT",
+    "icao": "SNG",
+    "name": "LongJiang Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SNG.png"
+  },
+  {
+    "iata": "LU",
+    "icao": "LXP",
+    "name": "Transporte Aereo S.A. d/b/a LATAM Airlines Chile",
+    "logo": "https://www.avcodes.co.uk/images/logos/LXP.png"
+  },
+  {
+    "iata": "LV",
+    "icao": "DTG",
+    "name": "Airzena LLC d/b/a Aircompany AIRZENA",
+    "logo": ""
+  },
+  {
+    "iata": "LW",
+    "icao": "LDA",
+    "name": "Lauda Europe Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/LDA.png"
+  },
+  {
+    "iata": "LX",
+    "icao": "SWR",
+    "name": "Swiss International Airlines Ltd. d/b/a Swiss",
+    "logo": "https://www.avcodes.co.uk/images/logos/SWR.png"
+  },
+  {
+    "iata": "LY",
+    "icao": "ELY",
+    "name": "EL AL Israel Airlines Ltd. d/b/a El Al",
+    "logo": "https://www.avcodes.co.uk/images/logos/ELY.png"
+  },
+  {
+    "iata": "LZ",
+    "icao": "",
+    "name": "Air Link Pty Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/airlink_au.png"
+  },
+  {
+    "iata": "M0",
+    "icao": "MNG",
+    "name": "Aero Mongolia",
+    "logo": "https://www.avcodes.co.uk/images/logos/MNG.png"
+  },
+  {
+    "iata": "M2",
+    "icao": "MHV",
+    "name": "MHS Aviation GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/MHV.png"
+  },
+  {
+    "iata": "M2*",
+    "icao": "MXS",
+    "name": "Sunrise Airlines, Inc. d/b/a Millon Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/MXS.png"
+  },
+  {
+    "iata": "M3",
+    "icao": "LTG",
+    "name": "ABSA",
+    "logo": "https://www.avcodes.co.uk/images/logos/LTG.png"
+  },
+  {
+    "iata": "M4",
+    "icao": "MSA",
+    "name": "Poste Air Cargo S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MSA.png"
+  },
+  {
+    "iata": "M5*",
+    "icao": "",
+    "name": "Kenmore Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/Kenmore.png"
+  },
+  {
+    "iata": "M5*",
+    "icao": "KEN",
+    "name": "Kenmore Air Harbor, Inc. t/a Kenmore Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/KEN.png"
+  },
+  {
+    "iata": "M6",
+    "icao": "AJT",
+    "name": "Amerijet International, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AJT.png"
+  },
+  {
+    "iata": "M7",
+    "icao": "MAA",
+    "name": "Aerotransportes Mas de Carga, S.A. de C.V. t/a MasAir",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAA.png"
+  },
+  {
+    "iata": "M8",
+    "icao": "MSJ",
+    "name": "Magnum Air, Inc. d/b/a Skyjet",
+    "logo": "https://www.avcodes.co.uk/images/logos/MSJ.png"
+  },
+  {
+    "iata": "M9",
+    "icao": "MSI",
+    "name": "Motor",
+    "logo": "https://www.avcodes.co.uk/images/logos/MSI.png"
+  },
+  {
+    "iata": "MA",
+    "icao": "MEN",
+    "name": "MAE Aircraft Management WLL",
+    "logo": "https://www.avcodes.co.uk/images/logos/MEN.png"
+  },
+  {
+    "iata": "MA*",
+    "icao": "EAU",
+    "name": "Elitavia Malta Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/EAU.png"
+  },
+  {
+    "iata": "MB",
+    "icao": "MNB",
+    "name": "MNG Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MNB.png"
+  },
+  {
+    "iata": "MC",
+    "icao": "RCH",
+    "name": "Air Mobility Command (AMC)",
+    "logo": "https://www.avcodes.co.uk/images/logos/RCH.jpg"
+  },
+  {
+    "iata": "MD",
+    "icao": "MDG",
+    "name": "Air Madagascar",
+    "logo": "https://www.avcodes.co.uk/images/logos/MDG.png"
+  },
+  {
+    "iata": "ME",
+    "icao": "MEA",
+    "name": "Middle East Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MEA.png"
+  },
+  {
+    "iata": "MF",
+    "icao": "CXA",
+    "name": "Xiamen Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CXA.png"
+  },
+  {
+    "iata": "MG",
+    "icao": "EZA",
+    "name": "Eznis Airways LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/eznis.png"
+  },
+  {
+    "iata": "MH",
+    "icao": "MAS",
+    "name": "Malaysia Airlines Berhad d/b/a Malaysia Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAS.png"
+  },
+  {
+    "iata": "MI*",
+    "icao": "FHM",
+    "name": "Freebird Airlines Europe Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/FHM.png"
+  },
+  {
+    "iata": "MJ",
+    "icao": "MYW",
+    "name": "MyWay Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MYW.png"
+  },
+  {
+    "iata": "MK",
+    "icao": "MAU",
+    "name": "Air Mauritius",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAU.png"
+  },
+  {
+    "iata": "ML",
+    "icao": "FML",
+    "name": "Sky Mali",
+    "logo": "https://www.avcodes.co.uk/images/logos/FML.png"
+  },
+  {
+    "iata": "MM",
+    "icao": "APJ",
+    "name": "Peach Aviation Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/APJ.png"
+  },
+  {
+    "iata": "MO",
+    "icao": "CAV",
+    "name": "Calm Air International Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CAV.png"
+  },
+  {
+    "iata": "MP",
+    "icao": "MPH",
+    "name": "Martinair Holland N.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MPH.png"
+  },
+  {
+    "iata": "MQ",
+    "icao": "ENY",
+    "name": "Envoy Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ENY.png"
+  },
+  {
+    "iata": "MR",
+    "icao": "MML",
+    "name": "Hunnu Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/MML.png"
+  },
+  {
+    "iata": "MS",
+    "icao": "MSR",
+    "name": "Egyptair",
+    "logo": "https://www.avcodes.co.uk/images/logos/MSR.png"
+  },
+  {
+    "iata": "MT",
+    "icao": "MMO",
+    "name": "Malta Air Travel Ltd d/b/a Malta MedAir",
+    "logo": "https://www.avcodes.co.uk/images/logos/MMO.png"
+  },
+  {
+    "iata": "MT*",
+    "icao": "MTL",
+    "name": "RAF",
+    "logo": "https://www.avcodes.co.uk/images/logos/MTL.png"
+  },
+  {
+    "iata": "MU",
+    "icao": "CES",
+    "name": "China Eastern Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CES.png"
+  },
+  {
+    "iata": "MV",
+    "icao": "MAR",
+    "name": "Air Mediterranean S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAR.png"
+  },
+  {
+    "iata": "MW",
+    "icao": "WZM",
+    "name": "Waltzing Matilda Aviation, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/WZM.png"
+  },
+  {
+    "iata": "MX",
+    "icao": "MXY",
+    "name": "Breeze Aviation Group, Inc. t/a Breeze Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/MXY.png"
+  },
+  {
+    "iata": "MY",
+    "icao": "MWG",
+    "name": "Maswings Sdn Bhd",
+    "logo": "https://www.avcodes.co.uk/images/logos/MWG.png"
+  },
+  {
+    "iata": "MZ",
+    "icao": "AHX",
+    "name": "Amakusa Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AHX.png"
+  },
+  {
+    "iata": "N0",
+    "icao": "NBT",
+    "name": "Norse Atlantic Airways AS",
+    "logo": "https://www.avcodes.co.uk/images/logos/flynorse.png"
+  },
+  {
+    "iata": "N1",
+    "icao": "",
+    "name": "Darwin travel Technology, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DarwinLogo.png"
+  },
+  {
+    "iata": "N2",
+    "icao": "NIG",
+    "name": "Aero Contractors Company of Nigeria Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NIG.jpg"
+  },
+  {
+    "iata": "N3",
+    "icao": "VOS",
+    "name": "Veula El Salvador S.A. de C.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VOS.png"
+  },
+  {
+    "iata": "N4",
+    "icao": "NWS",
+    "name": "LLC \"Nord Wind\"",
+    "logo": "https://www.avcodes.co.uk/images/logos/NWS.png"
+  },
+  {
+    "iata": "N5",
+    "icao": "NRL",
+    "name": "Les Investissements Nolinor Inc. t/a Nolinor Aviation",
+    "logo": "https://www.avcodes.co.uk/images/logos/NRL.png"
+  },
+  {
+    "iata": "N6*",
+    "icao": "TZS",
+    "name": "TCA LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/TZS.png"
+  },
+  {
+    "iata": "N7",
+    "icao": "FCM",
+    "name": "Nordic Regional Airlines Oy",
+    "logo": "https://www.avcodes.co.uk/images/logos/NORRA.png"
+  },
+  {
+    "iata": "N7*",
+    "icao": "NEP",
+    "name": "My Jet Xpress Airlines Sdn.Bhd. dba My Jet Xpress",
+    "logo": ""
+  },
+  {
+    "iata": "N8",
+    "icao": "NCR",
+    "name": "National Air Cargo Group, Inc. d/b/a National Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/NCR.png"
+  },
+  {
+    "iata": "N9",
+    "icao": "SHA",
+    "name": "Shree Airlines Pvt. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/shree.png"
+  },
+  {
+    "iata": "N9*",
+    "icao": "NVR",
+    "name": "Nova Airlines AB",
+    "logo": "https://www.avcodes.co.uk/images/logos/NVR.png"
+  },
+  {
+    "iata": "NA",
+    "icao": "NMA",
+    "name": "Nesma Airlines Company Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NMA.png"
+  },
+  {
+    "iata": "NB",
+    "icao": "BNL",
+    "name": "Berniq Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/BNL.png"
+  },
+  {
+    "iata": "NC*",
+    "icao": "NAC",
+    "name": "Northern Air Cargo, LLC.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NAC.png"
+  },
+  {
+    "iata": "ND",
+    "icao": "NDA",
+    "name": "Nordic Aviation Group AS d/b/a Nordica",
+    "logo": "https://www.avcodes.co.uk/images/logos/nordica.png"
+  },
+  {
+    "iata": "NE",
+    "icao": "NSS",
+    "name": "Nesma Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/NSS.png"
+  },
+  {
+    "iata": "NF",
+    "icao": "AVN",
+    "name": "Air Vanuatu (Operations) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AVN.png"
+  },
+  {
+    "iata": "NG",
+    "icao": "NAI",
+    "name": "NOVAIR LLC",
+    "logo": ""
+  },
+  {
+    "iata": "NH",
+    "icao": "ANA",
+    "name": "All Nippon Airways Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANA.gif"
+  },
+  {
+    "iata": "NI",
+    "icao": "PGA",
+    "name": "Portugalia",
+    "logo": "https://www.avcodes.co.uk/images/logos/PGA.png"
+  },
+  {
+    "iata": "NJ*",
+    "icao": "RCR",
+    "name": "Romcargo Airlines S.r.l.",
+    "logo": ""
+  },
+  {
+    "iata": "NK",
+    "icao": "NKS",
+    "name": "Spirit Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NKS.png"
+  },
+  {
+    "iata": "NL",
+    "icao": "AEH",
+    "name": "Aero4M d.o.o. d/b/a Amelia International",
+    "logo": "https://www.avcodes.co.uk/images/logos/AEH.png"
+  },
+  {
+    "iata": "NM",
+    "icao": "NTR",
+    "name": "SAS Natireva t/a Air Moana",
+    "logo": "https://www.avcodes.co.uk/images/logos/NTR.png"
+  },
+  {
+    "iata": "NN",
+    "icao": "",
+    "name": "China Travel Tours Transportation Services Hong Kong Ltd. (CTTTS)",
+    "logo": ""
+  },
+  {
+    "iata": "NO",
+    "icao": "NAB",
+    "name": "Niger Air Cargo",
+    "logo": "https://www.avcodes.co.uk/images/logos/NAB.png"
+  },
+  {
+    "iata": "NO*",
+    "icao": "NOS",
+    "name": "Neos S.p.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NOS.png"
+  },
+  {
+    "iata": "NP",
+    "icao": "NIA",
+    "name": "Nile Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/NIA.png"
+  },
+  {
+    "iata": "NQ",
+    "icao": "AJX",
+    "name": "Air Japan Company Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AJX.jpg"
+  },
+  {
+    "iata": "NR",
+    "icao": "MAV",
+    "name": "Manta Aviation Pvt. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MAV.png"
+  },
+  {
+    "iata": "NS",
+    "icao": "HBH",
+    "name": "Hebei Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HBH.png"
+  },
+  {
+    "iata": "NT",
+    "icao": "IBB",
+    "name": "Binter Canarias, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/IBB.png"
+  },
+  {
+    "iata": "NU",
+    "icao": "JTA",
+    "name": "Japan Transocean Air Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JTA.gif"
+  },
+  {
+    "iata": "NV",
+    "icao": "KRU",
+    "name": "Karun Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/IRG.png"
+  },
+  {
+    "iata": "NX",
+    "icao": "AMU",
+    "name": "Air Macau Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AMU.gif"
+  },
+  {
+    "iata": "NZ",
+    "icao": "ANZ",
+    "name": "Air New Zealand Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANZ.png"
+  },
+  {
+    "iata": "O2",
+    "icao": "HPK",
+    "name": "Hopscotch Air, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HPK.png"
+  },
+  {
+    "iata": "O3",
+    "icao": "CSS",
+    "name": "Shun Fung Airlines Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSS.png"
+  },
+  {
+    "iata": "O4",
+    "icao": "ANS",
+    "name": "Andes Lineas Aereas S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANS.png"
+  },
+  {
+    "iata": "O7",
+    "icao": "OMB",
+    "name": "Omni",
+    "logo": "https://www.avcodes.co.uk/images/logos/OMB.png"
+  },
+  {
+    "iata": "O8",
+    "icao": "MTO",
+    "name": "Marathon Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MTO.png"
+  },
+  {
+    "iata": "OA",
+    "icao": "OAL",
+    "name": "Olympic Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/OAL.png"
+  },
+  {
+    "iata": "OB",
+    "icao": "BOV",
+    "name": "Boliviana de Aviacion (BoA)",
+    "logo": "https://www.avcodes.co.uk/images/logos/BOV.png"
+  },
+  {
+    "iata": "OC",
+    "icao": "ORC",
+    "name": "Oriental Air Bridge Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ORC.png"
+  },
+  {
+    "iata": "OD",
+    "icao": "MXD",
+    "name": "Malindo Airways Sdn Bhd d/b/a Batik Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/MXD.png"
+  },
+  {
+    "iata": "OE",
+    "icao": "FOE",
+    "name": "Fly One Airlines S.r.l.",
+    "logo": ""
+  },
+  {
+    "iata": "OF",
+    "icao": "OLA",
+    "name": "Overland Airways Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/OLA.png"
+  },
+  {
+    "iata": "OG",
+    "icao": "FPY",
+    "name": "Fly Play hf.",
+    "logo": "https://www.avcodes.co.uk/images/logos/FPY.png"
+  },
+  {
+    "iata": "OH",
+    "icao": "JIA",
+    "name": "Jetstream International Airlines",
+    "logo": ""
+  },
+  {
+    "iata": "OI",
+    "icao": "HND",
+    "name": "Hinterland Aviation Pty Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/HND.png"
+  },
+  {
+    "iata": "OJ",
+    "icao": "NYX",
+    "name": "Nyxair OU",
+    "logo": "https://www.avcodes.co.uk/images/logos/NYX.png"
+  },
+  {
+    "iata": "OK",
+    "icao": "CSA",
+    "name": "Czech Airlines A.S. , CSA",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSA.jpg"
+  },
+  {
+    "iata": "OL",
+    "icao": "PAO",
+    "name": "Samoa Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/PAO.png"
+  },
+  {
+    "iata": "OM",
+    "icao": "MGL",
+    "name": "MIAT",
+    "logo": "https://www.avcodes.co.uk/images/logos/MGL.png"
+  },
+  {
+    "iata": "ON",
+    "icao": "RON",
+    "name": "Nauru Air Corporation t/a Nauru Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/RON.png"
+  },
+  {
+    "iata": "OO",
+    "icao": "SKW",
+    "name": "SkyWest Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SKW.png"
+  },
+  {
+    "iata": "OP",
+    "icao": "DIG",
+    "name": "DAC International Airlines Ltd. d/b/a PassionAir",
+    "logo": "https://www.avcodes.co.uk/images/logos/DIG.png"
+  },
+  {
+    "iata": "OQ",
+    "icao": "CQN",
+    "name": "Chong Qing Airlines Co., Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/CQN.png"
+  },
+  {
+    "iata": "OR",
+    "icao": "TFL",
+    "name": "TUI Airlines Nederlands B.V. t/a TUI fly Netherlands",
+    "logo": "https://www.avcodes.co.uk/images/logos/TFL.png"
+  },
+  {
+    "iata": "OS",
+    "icao": "AUA",
+    "name": "Austrian Airlines AG d/b/a/ Austrian",
+    "logo": "https://www.avcodes.co.uk/images/logos/AUA.png"
+  },
+  {
+    "iata": "OU",
+    "icao": "CTN",
+    "name": "Croatia Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CTN.png"
+  },
+  {
+    "iata": "OV",
+    "icao": "OMS",
+    "name": "SalamAir",
+    "logo": "https://www.avcodes.co.uk/images/logos/OMS.png"
+  },
+  {
+    "iata": "OW",
+    "icao": "SEW",
+    "name": "Skyward Express Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEW.png"
+  },
+  {
+    "iata": "OY*",
+    "icao": "OAE",
+    "name": "Omni Air International, Inc. d/b/a Omni Air Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/OAE.png"
+  },
+  {
+    "iata": "OZ",
+    "icao": "AAR",
+    "name": "Asiana Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AAR.png"
+  },
+  {
+    "iata": "P0",
+    "icao": "PFZ",
+    "name": "Proflight Commuter Services Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/PFZ.png"
+  },
+  {
+    "iata": "P2",
+    "icao": "XAK",
+    "name": "Airkenya Express Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/XAK.png"
+  },
+  {
+    "iata": "P3",
+    "icao": "POE",
+    "name": "Porter Airlines Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/POE.png"
+  },
+  {
+    "iata": "P3*",
+    "icao": "CLU",
+    "name": "Cargologicair Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CLU.png"
+  },
+  {
+    "iata": "P4",
+    "icao": "APK",
+    "name": "Air Peace Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/APK.png"
+  },
+  {
+    "iata": "P5",
+    "icao": "RPB",
+    "name": "AeroRepública, S.A. t/a wingo",
+    "logo": "https://www.avcodes.co.uk/images/logos/RPB.png"
+  },
+  {
+    "iata": "P6",
+    "icao": "PVG",
+    "name": "Privilege Style Lineas Aereas S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PVG.png"
+  },
+  {
+    "iata": "P6*",
+    "icao": "PSC",
+    "name": "9736140 Canada Inc t/a Pascan",
+    "logo": "https://www.avcodes.co.uk/images/logos/PSC.png"
+  },
+  {
+    "iata": "P8",
+    "icao": "SRN",
+    "name": "SprintAir SA",
+    "logo": "https://www.avcodes.co.uk/images/logos/SRN.png"
+  },
+  {
+    "iata": "P9",
+    "icao": "PXC",
+    "name": "Palau Express Airlines Corporation",
+    "logo": ""
+  },
+  {
+    "iata": "P9*",
+    "icao": "MGE",
+    "name": "Aero Micronesia Inc d/b/a Asia Pacific Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/MGE.png"
+  },
+  {
+    "iata": "PA",
+    "icao": "ABQ",
+    "name": "M/S Airblue (PVT) Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABQ.png"
+  },
+  {
+    "iata": "PB",
+    "icao": "PVL",
+    "name": "PAL Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PVL.png"
+  },
+  {
+    "iata": "PC",
+    "icao": "PGT",
+    "name": "Pegasus Hava Tasimaciligi A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PGT.png"
+  },
+  {
+    "iata": "PC*",
+    "icao": "",
+    "name": "Envirotainer AB",
+    "logo": "https://www.avcodes.co.uk/images/logos/envirotainer.png"
+  },
+  {
+    "iata": "PD",
+    "icao": "",
+    "name": "Porter Airlines (Canada) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/POE.png"
+  },
+  {
+    "iata": "PE",
+    "icao": "PEV",
+    "name": "Altenrhein Luftfahrt GmbH t/a People’s",
+    "logo": "https://www.avcodes.co.uk/images/logos/PEV.png"
+  },
+  {
+    "iata": "PF",
+    "icao": "SIF",
+    "name": "AirSial Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SIF.png"
+  },
+  {
+    "iata": "PG",
+    "icao": "BKP",
+    "name": "Bangkok Airways Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BKP.png"
+  },
+  {
+    "iata": "PH",
+    "icao": "SFZ",
+    "name": "Pionair Australia Pty., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SFZ.png"
+  },
+  {
+    "iata": "PH*",
+    "icao": "GRB",
+    "name": "Phoenix Air Group, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GRB.png"
+  },
+  {
+    "iata": "PI",
+    "icao": "RKA",
+    "name": "Polar Airlines OJSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/RKA.png"
+  },
+  {
+    "iata": "PJ",
+    "icao": "SPM",
+    "name": "Air Saint Pierre",
+    "logo": "https://www.avcodes.co.uk/images/logos/SPM.png"
+  },
+  {
+    "iata": "PK",
+    "icao": "PIA",
+    "name": "Pakistan International Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/PIA.jpg"
+  },
+  {
+    "iata": "PL*",
+    "icao": "SOA",
+    "name": "Southern Air Charters Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SOA.png"
+  },
+  {
+    "iata": "PM",
+    "icao": "CNF",
+    "name": "Canaryfly S.L.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CNF.png"
+  },
+  {
+    "iata": "PM*",
+    "icao": "PSK",
+    "name": "Prescott Support Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/PSK.png"
+  },
+  {
+    "iata": "PN",
+    "icao": "CHB",
+    "name": "China West Air Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CHB.png"
+  },
+  {
+    "iata": "PN*",
+    "icao": "PAA",
+    "name": "Pan American Airways Corp.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PAA.png"
+  },
+  {
+    "iata": "PO",
+    "icao": "PAC",
+    "name": "Polar Air Cargo Worldwide, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PAC.png"
+  },
+  {
+    "iata": "PP",
+    "icao": "PJS",
+    "name": "Jet Aviation Business Jets AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/PJS.png"
+  },
+  {
+    "iata": "PQ",
+    "icao": "SQP",
+    "name": "SkyUp Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SQP.png"
+  },
+  {
+    "iata": "PR",
+    "icao": "PAL",
+    "name": "Philippine Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PAL.png"
+  },
+  {
+    "iata": "PS",
+    "icao": "AUI",
+    "name": "Private Stock Company \"Ukraine International Airlines\"",
+    "logo": "https://www.avcodes.co.uk/images/logos/AUI.png"
+  },
+  {
+    "iata": "PT",
+    "icao": "PDT",
+    "name": "Piedmont Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PDT.png"
+  },
+  {
+    "iata": "PU",
+    "icao": "PUE",
+    "name": "Plus Ultra Lineas Aereas, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PUE.png"
+  },
+  {
+    "iata": "PV*",
+    "icao": "SBU",
+    "name": "Saint Barth Commuter",
+    "logo": "https://www.avcodes.co.uk/images/logos/SBU.png"
+  },
+  {
+    "iata": "PW",
+    "icao": "PRF",
+    "name": "Precision Air Services Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/PRF.png"
+  },
+  {
+    "iata": "PX",
+    "icao": "ANG",
+    "name": "Air Niugini Pty Limited d/b/a Air Niugini",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANG.png"
+  },
+  {
+    "iata": "PY",
+    "icao": "SLM",
+    "name": "Surinam Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SLM.png"
+  },
+  {
+    "iata": "PZ",
+    "icao": "LAP",
+    "name": "TAM",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAP.png"
+  },
+  {
+    "iata": "Q1",
+    "icao": "",
+    "name": "PT. Sqiva Sistem",
+    "logo": "https://www.avcodes.co.uk/images/logos/sqiva.png"
+  },
+  {
+    "iata": "Q2",
+    "icao": "DQA",
+    "name": "Island Aviation Services Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/DQA.png"
+  },
+  {
+    "iata": "Q3",
+    "icao": "AXL",
+    "name": "Anguilla Air Services Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AXL.png"
+  },
+  {
+    "iata": "Q4",
+    "icao": "ELE",
+    "name": "euroairlines, S.L.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ELE.png"
+  },
+  {
+    "iata": "Q5*",
+    "icao": "MLA",
+    "name": "40",
+    "logo": "https://www.avcodes.co.uk/images/logos/MLA.png"
+  },
+  {
+    "iata": "Q6",
+    "icao": "VOC",
+    "name": "Vuela Aviacion S.A. (Volaris Costa Rica)",
+    "logo": "https://www.avcodes.co.uk/images/logos/VOC.png"
+  },
+  {
+    "iata": "Q7*",
+    "icao": "DHA",
+    "name": "DHL Air (Austria) GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/DHA.png"
+  },
+  {
+    "iata": "Q8",
+    "icao": "TSG",
+    "name": "Trans Air Congo (TAC)",
+    "logo": "https://www.avcodes.co.uk/images/logos/TSG.png"
+  },
+  {
+    "iata": "Q9",
+    "icao": "GWG",
+    "name": "Green Africa Airways Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/GWG.png"
+  },
+  {
+    "iata": "QA",
+    "icao": "QBA",
+    "name": "Queen Bilqis Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/QBA.png"
+  },
+  {
+    "iata": "QB",
+    "icao": "QSM",
+    "name": "Qeshm Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/QSM.png"
+  },
+  {
+    "iata": "QC*",
+    "icao": "CRC",
+    "name": "Cameroon Airlines Corp",
+    "logo": "https://www.avcodes.co.uk/images/logos/CRC.jpg"
+  },
+  {
+    "iata": "QE",
+    "icao": "EFA",
+    "name": "Express Freighters Australia Pty Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/EFA.png"
+  },
+  {
+    "iata": "QF",
+    "icao": "QFA",
+    "name": "Qantas Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/QFA.png"
+  },
+  {
+    "iata": "QG",
+    "icao": "CTV",
+    "name": "PT. Citilink Indonesia",
+    "logo": "https://www.avcodes.co.uk/images/logos/CTV.png"
+  },
+  {
+    "iata": "QH",
+    "icao": "BAV",
+    "name": "Bamboo Airways Joint Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/BAV.png"
+  },
+  {
+    "iata": "QI",
+    "icao": "IAN",
+    "name": "Ibom Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAN.png"
+  },
+  {
+    "iata": "QJ",
+    "icao": "",
+    "name": "Jet Airways, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/jet_airways.png"
+  },
+  {
+    "iata": "QK",
+    "icao": "JZA",
+    "name": "Jazz Aviation LP",
+    "logo": "https://www.avcodes.co.uk/images/logos/JZA.png"
+  },
+  {
+    "iata": "QL*",
+    "icao": "LER",
+    "name": "Linea Aerea de Servicio Ejecutivo Regional, C.A. d/b/a Laser",
+    "logo": "https://www.avcodes.co.uk/images/logos/LER.png"
+  },
+  {
+    "iata": "QM",
+    "icao": "",
+    "name": "Monacair",
+    "logo": "https://www.avcodes.co.uk/images/logos/MCR.png"
+  },
+  {
+    "iata": "QN",
+    "icao": "SKP",
+    "name": "Skytrans Regional Pty Ltd t/a Skytrans Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SKP.png"
+  },
+  {
+    "iata": "QO",
+    "icao": "FQA",
+    "name": "Quikjet Cargo Airlines Pvt. Ltd. d/b/a Quikjet Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/FQA.png"
+  },
+  {
+    "iata": "QP",
+    "icao": "AKJ",
+    "name": "SNV Aviation Pvt Ltd t/a Akasa Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/AKJ.png"
+  },
+  {
+    "iata": "QQ",
+    "icao": "UTY",
+    "name": "Alliance Airlines PTY Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/UTY.jpg"
+  },
+  {
+    "iata": "QR",
+    "icao": "QTR",
+    "name": "Qatar Airways Group Q.C.S.C.",
+    "logo": "https://www.avcodes.co.uk/images/logos/QTR.png"
+  },
+  {
+    "iata": "QS",
+    "icao": "TVS",
+    "name": "Smartwings, a.s.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVS.png"
+  },
+  {
+    "iata": "QT",
+    "icao": "TPA",
+    "name": "Transportes Aereos Mercantiles Panamericanos S.A., (TAMPA) t/a Avianca Cargo",
+    "logo": "https://www.avcodes.co.uk/images/logos/TPA.png"
+  },
+  {
+    "iata": "QU",
+    "icao": "UTN",
+    "name": "Skyline Express Airline LLC",
+    "logo": ""
+  },
+  {
+    "iata": "QV",
+    "icao": "LAO",
+    "name": "Lao Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAO.png"
+  },
+  {
+    "iata": "QW",
+    "icao": "QDA",
+    "name": "Qingdao Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/QDA.png"
+  },
+  {
+    "iata": "QX",
+    "icao": "QXE",
+    "name": "Horizon Air Industries, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/QXE.png"
+  },
+  {
+    "iata": "QY",
+    "icao": "BCS",
+    "name": "European Air Transport Leipzig GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/BCS.png"
+  },
+  {
+    "iata": "QZ",
+    "icao": "AWQ",
+    "name": "PT. Indonesia AirAsia",
+    "logo": "https://www.avcodes.co.uk/images/logos/AWQ.png"
+  },
+  {
+    "iata": "R0",
+    "icao": "",
+    "name": "Tantalus Air Ltd. d/b/a Harbour Air Seaplanes",
+    "logo": "https://www.avcodes.co.uk/images/logos/logo-has.png"
+  },
+  {
+    "iata": "R1",
+    "icao": "",
+    "name": "Zapways, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/zapways.png"
+  },
+  {
+    "iata": "R2",
+    "icao": "GTS",
+    "name": "Groupe Transair S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/GTS.png"
+  },
+  {
+    "iata": "R3",
+    "icao": "SYL",
+    "name": "JSC Airline Yakutia",
+    "logo": "https://www.avcodes.co.uk/images/logos/SYL.png"
+  },
+  {
+    "iata": "R4",
+    "icao": "RAN",
+    "name": "Rano Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/RAN.png"
+  },
+  {
+    "iata": "R5",
+    "icao": "JAV",
+    "name": "Jordan Enterprise for Air Navigation and Aviation",
+    "logo": "https://www.avcodes.co.uk/images/logos/JAV.png"
+  },
+  {
+    "iata": "R6",
+    "icao": "DNU",
+    "name": "DAT LT UAB d/b/a DAT",
+    "logo": "https://www.avcodes.co.uk/images/logos/DNU.png"
+  },
+  {
+    "iata": "R7*",
+    "icao": "",
+    "name": "Unilode Aviation Solutions Switzerland Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/unilode.png"
+  },
+  {
+    "iata": "R8",
+    "icao": "",
+    "name": "RIMA Rio Madeira Aerotáxi Ltda",
+    "logo": "https://www.avcodes.co.uk/images/logos/RIMA_logo.png"
+  },
+  {
+    "iata": "R9*",
+    "icao": "MUI",
+    "name": "Trans Executive Airlines of Hawaii t/a transair Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/MUI.png"
+  },
+  {
+    "iata": "RA",
+    "icao": "RNA",
+    "name": "Nepal Airlines Corporation t/a Nepal Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/RNA.png"
+  },
+  {
+    "iata": "RB",
+    "icao": "SYR",
+    "name": "Syrian Arab Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SYR.png"
+  },
+  {
+    "iata": "RC",
+    "icao": "FLI",
+    "name": "Atlantic Airways Faroe Islands",
+    "logo": "https://www.avcodes.co.uk/images/logos/FLI.png"
+  },
+  {
+    "iata": "RD",
+    "icao": "SNA",
+    "name": "LogicPaq Btd, s.r.l. d/b/a Sky Cana",
+    "logo": "https://www.avcodes.co.uk/images/logos/skycana.png"
+  },
+  {
+    "iata": "RD*",
+    "icao": "LOL",
+    "name": "Easycharter LLC",
+    "logo": ""
+  },
+  {
+    "iata": "RE",
+    "icao": "GJM",
+    "name": "Airhub Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/GJM.png"
+  },
+  {
+    "iata": "RF",
+    "icao": "EOK",
+    "name": "Aero K Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/EOK.png"
+  },
+  {
+    "iata": "RF*",
+    "icao": "ERF",
+    "name": "Erofey LLC t/a E",
+    "logo": "https://www.avcodes.co.uk/images/logos/ERF.png"
+  },
+  {
+    "iata": "RG",
+    "icao": "RJD",
+    "name": "Rotana Jet Aviation d/b/a Rotana Jet",
+    "logo": "https://www.avcodes.co.uk/images/logos/RJD.png"
+  },
+  {
+    "iata": "RH",
+    "icao": "HKC",
+    "name": "Hong Kong Air Cargo Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HKC.png"
+  },
+  {
+    "iata": "RI",
+    "icao": "OEY",
+    "name": "PT Rimbun Abadi Aviasi d/b/a RIMBUN AIR",
+    "logo": "https://www.avcodes.co.uk/images/logos/Rimbun.png"
+  },
+  {
+    "iata": "RJ",
+    "icao": "RJA",
+    "name": "Alia",
+    "logo": "https://www.avcodes.co.uk/images/logos/RJA.jpg"
+  },
+  {
+    "iata": "RK",
+    "icao": "RUK",
+    "name": "Ryanair UK Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/RUK.png"
+  },
+  {
+    "iata": "RL",
+    "icao": "ABG",
+    "name": "CJSC Royal Flight Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABG.png"
+  },
+  {
+    "iata": "RM",
+    "icao": "NGT",
+    "name": "Air Dilijans LLC",
+    "logo": ""
+  },
+  {
+    "iata": "RN",
+    "icao": "SZL",
+    "name": "Royal Eswatini National Airways Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/SZL.png"
+  },
+  {
+    "iata": "RN*",
+    "icao": "ARN",
+    "name": "Aeronexus Corporate Pty Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/ARN.png"
+  },
+  {
+    "iata": "RO",
+    "icao": "ROT",
+    "name": "Compnia Nationala de Transporturi Aeriene Romane TAROM S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ROT.png"
+  },
+  {
+    "iata": "RP",
+    "icao": "BPS",
+    "name": "Budapest Aircraft Service Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BPS.png"
+  },
+  {
+    "iata": "RQ*",
+    "icao": "KMF",
+    "name": "Kam Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/KMF.png"
+  },
+  {
+    "iata": "RR",
+    "icao": "RYS",
+    "name": "Ryanair Sun S.A. t/a BUZZ",
+    "logo": "https://www.avcodes.co.uk/images/logos/RYS.png"
+  },
+  {
+    "iata": "RS",
+    "icao": "ASV",
+    "name": "Air Seoul, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ASV.png"
+  },
+  {
+    "iata": "RT",
+    "icao": "UVT",
+    "name": "JSC UVT aero",
+    "logo": "https://www.avcodes.co.uk/images/logos/UVT.png"
+  },
+  {
+    "iata": "RU",
+    "icao": "ABW",
+    "name": "AirBridge Cargo Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABW.png"
+  },
+  {
+    "iata": "RV",
+    "icao": "ROU",
+    "name": "Air Canada rouge LP",
+    "logo": "https://www.avcodes.co.uk/images/logos/ROU.png"
+  },
+  {
+    "iata": "RW",
+    "icao": "RYL",
+    "name": "Royal Air Charter Service, Inc. t/a royalair philippines",
+    "logo": "https://www.avcodes.co.uk/images/logos/RYL.png"
+  },
+  {
+    "iata": "RY",
+    "icao": "CJX",
+    "name": "Jiangxi Air Company Limited d/b/a Jiangxi Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/CJX.png"
+  },
+  {
+    "iata": "RZ*",
+    "icao": "LRS",
+    "name": "Servicios Aereos Nacionales S.A. SANSA",
+    "logo": "https://www.avcodes.co.uk/images/logos/LRS.png"
+  },
+  {
+    "iata": "S0",
+    "icao": "",
+    "name": "Aerolineas Sosa, S.A. de C.V.",
+    "logo": ""
+  },
+  {
+    "iata": "S1",
+    "icao": "",
+    "name": "Lufthansa Systems GmbH & Co. KG",
+    "logo": "https://www.avcodes.co.uk/images/logos/LH_systems.png"
+  },
+  {
+    "iata": "S2",
+    "icao": "",
+    "name": "Serve Air S.a.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/serveair.png"
+  },
+  {
+    "iata": "S2*",
+    "icao": "KGB",
+    "name": "Sapsan Airlines d/b/a SAPSAN Airline",
+    "logo": "https://www.avcodes.co.uk/images/logos/KGB.png"
+  },
+  {
+    "iata": "S3",
+    "icao": "",
+    "name": "SATCO, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/satco.png"
+  },
+  {
+    "iata": "S4",
+    "icao": "RZO",
+    "name": "SATA International Servicos e Transportes Aereos, S.A. t/a Azores Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/RZO.png"
+  },
+  {
+    "iata": "S5",
+    "icao": "SDG",
+    "name": "Ghodawat Enterprises Pvt. Ltd. d/b/a Star Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/SDG.png"
+  },
+  {
+    "iata": "S5*",
+    "icao": "NKP",
+    "name": "Abakan Air LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/NKP.png"
+  },
+  {
+    "iata": "S6",
+    "icao": "KSZ",
+    "name": "Sunrise Airways S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/KSZ.png"
+  },
+  {
+    "iata": "S7",
+    "icao": "SBI",
+    "name": "JSC Siberia Airlines d/b/a S7 Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SBI.png"
+  },
+  {
+    "iata": "S8",
+    "icao": "SDA",
+    "name": "Sounds Air Travel & Tourism Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SDA.png"
+  },
+  {
+    "iata": "S8*",
+    "icao": "AHW",
+    "name": "Sky Capital Airlines Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AHW.png"
+  },
+  {
+    "iata": "S9",
+    "icao": "FLG",
+    "name": "Big Charter Pvt. Ltd. d/b/a FlyBig",
+    "logo": "https://www.avcodes.co.uk/images/logos/flybig.png"
+  },
+  {
+    "iata": "SA",
+    "icao": "SAA",
+    "name": "South African Airways SOC Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SAA.png"
+  },
+  {
+    "iata": "SA*",
+    "icao": "CIG",
+    "name": "Air Company Sirius",
+    "logo": "https://www.avcodes.co.uk/images/logos/CIG.png"
+  },
+  {
+    "iata": "SB",
+    "icao": "ACI",
+    "name": "Air Caledonie International",
+    "logo": "https://www.avcodes.co.uk/images/logos/ACI.png"
+  },
+  {
+    "iata": "SC",
+    "icao": "CDG",
+    "name": "Shandong Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CDG.png"
+  },
+  {
+    "iata": "SD",
+    "icao": "SUD",
+    "name": "Sudan Airways Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SUD.png"
+  },
+  {
+    "iata": "SE",
+    "icao": "URO",
+    "name": "European Cargo Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/URO.png"
+  },
+  {
+    "iata": "SF",
+    "icao": "DTH",
+    "name": "Tassili Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/DTH.png"
+  },
+  {
+    "iata": "SG",
+    "icao": "SEJ",
+    "name": "SpiceJet Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEJ.png"
+  },
+  {
+    "iata": "SH",
+    "icao": "",
+    "name": "Sharp Aviation Pty. Ltd t/a Sharp Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/sharpairlines.png"
+  },
+  {
+    "iata": "SI",
+    "icao": "BCI",
+    "name": "Blue Islands Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/BCI.png"
+  },
+  {
+    "iata": "SJ",
+    "icao": "SJY",
+    "name": "Sriwijaya Air PT",
+    "logo": "https://www.avcodes.co.uk/images/logos/SJY.png"
+  },
+  {
+    "iata": "SK",
+    "icao": "SAS",
+    "name": "Scandinavian Airlines System (SAS)",
+    "logo": "https://www.avcodes.co.uk/images/logos/SAS.png"
+  },
+  {
+    "iata": "SL",
+    "icao": "TLM",
+    "name": "Thai Lion Mentari Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TLM.png"
+  },
+  {
+    "iata": "SL*",
+    "icao": "SZS",
+    "name": "Scandinavian Airlines Ireland Limited d/b/a SAS Connect",
+    "logo": "https://www.avcodes.co.uk/images/logos/SZS.png"
+  },
+  {
+    "iata": "SM",
+    "icao": "MSC",
+    "name": "Air Cairo",
+    "logo": "https://www.avcodes.co.uk/images/logos/MSC.png"
+  },
+  {
+    "iata": "SN",
+    "icao": "BEL",
+    "name": "Brussels Airlines N.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BEL.png"
+  },
+  {
+    "iata": "SO",
+    "icao": "SNR",
+    "name": "Sun Air Co.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SNR.png"
+  },
+  {
+    "iata": "SO",
+    "icao": "",
+    "name": "Apex Airline Public Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/s5_logo.png"
+  },
+  {
+    "iata": "SO*",
+    "icao": "",
+    "name": "Syphax Airlines S.A.",
+    "logo": ""
+  },
+  {
+    "iata": "SP",
+    "icao": "SAT",
+    "name": "SATA",
+    "logo": "https://www.avcodes.co.uk/images/logos/SAT.png"
+  },
+  {
+    "iata": "SQ",
+    "icao": "SIA",
+    "name": "Singapore Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SIA.png"
+  },
+  {
+    "iata": "SR",
+    "icao": "SDR",
+    "name": "Sundair GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/SDR.png"
+  },
+  {
+    "iata": "SS",
+    "icao": "CRL",
+    "name": "Corse Air International",
+    "logo": "https://www.avcodes.co.uk/images/logos/CRL.png"
+  },
+  {
+    "iata": "ST",
+    "icao": "RTL",
+    "name": "Air Thanlwin Holding Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AYG.png"
+  },
+  {
+    "iata": "ST*",
+    "icao": "STT",
+    "name": "Western Aircraft, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/STT.png"
+  },
+  {
+    "iata": "SU",
+    "icao": "AFL",
+    "name": "PJSC \"Aeroflot\"",
+    "logo": "https://www.avcodes.co.uk/images/logos/AFL.png"
+  },
+  {
+    "iata": "SV",
+    "icao": "SVA",
+    "name": "Saudi Arabian Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SVA.png"
+  },
+  {
+    "iata": "SW",
+    "icao": "",
+    "name": "Swiss Airtainer SA",
+    "logo": "https://www.avcodes.co.uk/images/logos/swissairtainer.png"
+  },
+  {
+    "iata": "SX",
+    "icao": "TOR",
+    "name": "flyGTA, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TOR.png"
+  },
+  {
+    "iata": "SX*",
+    "icao": "",
+    "name": "Skywagon Corporation, Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "SY",
+    "icao": "SCX",
+    "name": "Sun Country Inc d/b/a Sun Country Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SCX.png"
+  },
+  {
+    "iata": "SZ",
+    "icao": "SMR",
+    "name": "Aircompany Somon Air LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/SMR.png"
+  },
+  {
+    "iata": "T1",
+    "icao": "",
+    "name": "Avtrasoft Limited",
+    "logo": ""
+  },
+  {
+    "iata": "T2*",
+    "icao": "MCS",
+    "name": "TUM AeroCarga de Mexico, S.A. de C.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MCS.png"
+  },
+  {
+    "iata": "T3*",
+    "icao": "EZE",
+    "name": "Air Kilroe Limited t/a Eastern Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/EZE.png"
+  },
+  {
+    "iata": "T4",
+    "icao": "",
+    "name": "Topre Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/topre.png"
+  },
+  {
+    "iata": "T4*",
+    "icao": "RDS",
+    "name": "Rhoades Aviation, Inc. d/b/a transair",
+    "logo": "https://www.avcodes.co.uk/images/logos/transair-logo.gif"
+  },
+  {
+    "iata": "T5",
+    "icao": "TUA",
+    "name": "Turkmenistan Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/TUA.png"
+  },
+  {
+    "iata": "T6",
+    "icao": "ATX",
+    "name": "AirSWIFT Transport, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ATX.png"
+  },
+  {
+    "iata": "T7",
+    "icao": "TJT",
+    "name": "Twin Jet",
+    "logo": "https://www.avcodes.co.uk/images/logos/TJT.png"
+  },
+  {
+    "iata": "T7*",
+    "icao": "TIW",
+    "name": "Transcarga International Airways, C.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TIW.png"
+  },
+  {
+    "iata": "T8*",
+    "icao": "TVR",
+    "name": "CA Terra Avia S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVR.png"
+  },
+  {
+    "iata": "T9",
+    "icao": "VTU",
+    "name": "Turpial Airlines, C.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VTU.png"
+  },
+  {
+    "iata": "TA*",
+    "icao": "TAK",
+    "name": "Transafrican Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAK.png"
+  },
+  {
+    "iata": "TB*",
+    "icao": "JAF",
+    "name": "TUI Airlines Belgium NV t/a TUI fly Belgium",
+    "logo": "https://www.avcodes.co.uk/images/logos/JAF.png"
+  },
+  {
+    "iata": "TC",
+    "icao": "ATC",
+    "name": "Air Tanzania Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/ATC.png"
+  },
+  {
+    "iata": "TD",
+    "icao": "TBC",
+    "name": "Tbilisi Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TBC.png"
+  },
+  {
+    "iata": "TD*",
+    "icao": "BLK",
+    "name": "USAC Airways 695, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/BLK.png"
+  },
+  {
+    "iata": "TE",
+    "icao": "IGA",
+    "name": "SkyTaxi sp. z.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/IGA.png"
+  },
+  {
+    "iata": "TF",
+    "icao": "BRX",
+    "name": "Braathens Regional Airways AB",
+    "logo": "https://www.avcodes.co.uk/images/logos/BRX.png"
+  },
+  {
+    "iata": "TG",
+    "icao": "THA",
+    "name": "Thai Airways International Public Company Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/THA.png"
+  },
+  {
+    "iata": "TH",
+    "icao": "RMY",
+    "name": "Raya Airways Sdn. Bhd. d/b/a Raya Airways",
+    "logo": "https://www.avcodes.co.uk/images/logos/RMY.png"
+  },
+  {
+    "iata": "TI",
+    "icao": "",
+    "name": "Tropic Ocean Airways, LLC.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TropicOceanAirways.png"
+  },
+  {
+    "iata": "TI*",
+    "icao": "TWI",
+    "name": "Tailwind Hava Yollari A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TWI.png"
+  },
+  {
+    "iata": "TJ",
+    "icao": "GPD",
+    "name": "Tradewind Aviation LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/GPD.png"
+  },
+  {
+    "iata": "TK",
+    "icao": "THY",
+    "name": "Turkish Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/THY.png"
+  },
+  {
+    "iata": "TL*",
+    "icao": "ANO",
+    "name": "Airnorth Regional",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANO.gif"
+  },
+  {
+    "iata": "TM",
+    "icao": "LAM",
+    "name": "LAM",
+    "logo": "https://www.avcodes.co.uk/images/logos/LAM.png"
+  },
+  {
+    "iata": "TM*",
+    "icao": "TMT",
+    "name": "Titan Airways Malta Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TMT.png"
+  },
+  {
+    "iata": "TN",
+    "icao": "THT",
+    "name": "Air Tahiti Nui",
+    "logo": "https://www.avcodes.co.uk/images/logos/THT.png"
+  },
+  {
+    "iata": "TO",
+    "icao": "TVF",
+    "name": "Transavia France S.A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVF.png"
+  },
+  {
+    "iata": "TP",
+    "icao": "TAP",
+    "name": "TAP Portugal",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAP.png"
+  },
+  {
+    "iata": "TQ",
+    "icao": "PGN",
+    "name": "Tailwind Air, LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/PGN.png"
+  },
+  {
+    "iata": "TR",
+    "icao": "TGW",
+    "name": "Scoot Pte. Ltd. d/b/a Scoot",
+    "logo": "https://www.avcodes.co.uk/images/logos/TGW.png"
+  },
+  {
+    "iata": "TS",
+    "icao": "TSC",
+    "name": "Air Transat",
+    "logo": "https://www.avcodes.co.uk/images/logos/TSC.png"
+  },
+  {
+    "iata": "TT",
+    "icao": "BIX",
+    "name": "Braathens International Airways AB",
+    "logo": ""
+  },
+  {
+    "iata": "TU",
+    "icao": "TAR",
+    "name": "Tunisair",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAR.png"
+  },
+  {
+    "iata": "TV",
+    "icao": "TBA",
+    "name": "Tibet Airlines Corporation Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TBA.png"
+  },
+  {
+    "iata": "TW",
+    "icao": "TWB",
+    "name": "T'Way Air Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TWB.jpg"
+  },
+  {
+    "iata": "TX",
+    "icao": "FWI",
+    "name": "Air Caraibes",
+    "logo": "https://www.avcodes.co.uk/images/logos/FWI.png"
+  },
+  {
+    "iata": "TY",
+    "icao": "TPC",
+    "name": "Air Caledonie",
+    "logo": "https://www.avcodes.co.uk/images/logos/TPC.png"
+  },
+  {
+    "iata": "TZ",
+    "icao": "TDS",
+    "name": "Tsaradia",
+    "logo": "https://www.avcodes.co.uk/images/logos/TDS.png"
+  },
+  {
+    "iata": "TZ*",
+    "icao": "TAH",
+    "name": "Air Anka Airlines Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAH.png"
+  },
+  {
+    "iata": "U1",
+    "icao": "",
+    "name": "Videcom International Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/Videcom.png"
+  },
+  {
+    "iata": "U2",
+    "icao": "EZY",
+    "name": "easyJet UK Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/EZY.png"
+  },
+  {
+    "iata": "U3",
+    "icao": "SAY",
+    "name": "Air Company \"Sky Gates Airlines\" LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/SAY.png"
+  },
+  {
+    "iata": "U4",
+    "icao": "BHA",
+    "name": "Buddha Air Pvt. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/BHA.png"
+  },
+  {
+    "iata": "U4*",
+    "icao": "BCU",
+    "name": "Bond Air Cargo, LLC",
+    "logo": ""
+  },
+  {
+    "iata": "U5",
+    "icao": "SEU",
+    "name": "SkyUp MT Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/SEU.png"
+  },
+  {
+    "iata": "U6",
+    "icao": "SVR",
+    "name": "Ural Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SVR.png"
+  },
+  {
+    "iata": "U7",
+    "icao": "UCG",
+    "name": "Uniworld Commercial Group, S.A. (Uniworld Air Cargo)",
+    "logo": "https://www.avcodes.co.uk/images/logos/UCG.jpg"
+  },
+  {
+    "iata": "U8",
+    "icao": "CYF",
+    "name": "Tus Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CYF.png"
+  },
+  {
+    "iata": "U9",
+    "icao": "",
+    "name": "Unilode Aviation Solutions Netherlands BV",
+    "logo": "https://www.avcodes.co.uk/images/logos/unilode.png"
+  },
+  {
+    "iata": "UA",
+    "icao": "UAL",
+    "name": "United Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/UAL.png"
+  },
+  {
+    "iata": "UB*",
+    "icao": "UBA",
+    "name": "Myanmar National Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/UBA.png"
+  },
+  {
+    "iata": "UC",
+    "icao": "LCO",
+    "name": "LAN Cargo S.A. d/b/a LATAM Cargo Chile",
+    "logo": "https://www.avcodes.co.uk/images/logos/LCO.png"
+  },
+  {
+    "iata": "UD",
+    "icao": "UBD",
+    "name": "UR Airlines d/b/a UBD",
+    "logo": "https://www.avcodes.co.uk/images/logos/UBD.png"
+  },
+  {
+    "iata": "UE",
+    "icao": "UJC",
+    "name": "Ultimate Jetcharters LLC dba Ultimate Air Shuttle",
+    "logo": "https://www.avcodes.co.uk/images/logos/UJC.jpg"
+  },
+  {
+    "iata": "UF",
+    "icao": "PER",
+    "name": "Petroleum Air Services",
+    "logo": "https://www.avcodes.co.uk/images/logos/PER.png"
+  },
+  {
+    "iata": "UG",
+    "icao": "TUX",
+    "name": "Tunisair Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/TUX.png"
+  },
+  {
+    "iata": "UH",
+    "icao": "XCH",
+    "name": "Jet Exchange Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/ULR.png"
+  },
+  {
+    "iata": "UI*",
+    "icao": "AUK",
+    "name": "Auric Air Services Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AUK.png"
+  },
+  {
+    "iata": "UJ",
+    "icao": "LMU",
+    "name": "Almasria Universal Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/LMU.png"
+  },
+  {
+    "iata": "UJ*",
+    "icao": "JUS",
+    "name": "USA Jet Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JUS.png"
+  },
+  {
+    "iata": "UK",
+    "icao": "VTI",
+    "name": "TATA SIA Airlines Limited t/a Vistara",
+    "logo": "https://www.avcodes.co.uk/images/logos/VTI.png"
+  },
+  {
+    "iata": "UL",
+    "icao": "ALK",
+    "name": "SriLankan Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/ALK.png"
+  },
+  {
+    "iata": "UM",
+    "icao": "AZW",
+    "name": "Air Zimbabwe (PVT) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZW.png"
+  },
+  {
+    "iata": "UN*",
+    "icao": "UNA",
+    "name": "Business Aviation Asia Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/UNA.png"
+  },
+  {
+    "iata": "UO",
+    "icao": "HKE",
+    "name": "Hong Kong Express Airways Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/HKE.png"
+  },
+  {
+    "iata": "UP",
+    "icao": "BHS",
+    "name": "Bahamasair Holdings Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/BHS.png"
+  },
+  {
+    "iata": "UQ",
+    "icao": "CUH",
+    "name": "Urumqi Airlines Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CUH.png"
+  },
+  {
+    "iata": "UR",
+    "icao": "UGD",
+    "name": "Uganda National Airlines Company Limited d/b/a/ Uganda Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/uganda_airlines.png"
+  },
+  {
+    "iata": "UT",
+    "icao": "UTA",
+    "name": "Utair Aviation Joint",
+    "logo": "https://www.avcodes.co.uk/images/logos/UTA.png"
+  },
+  {
+    "iata": "UU",
+    "icao": "REU",
+    "name": "Air Austral",
+    "logo": "https://www.avcodes.co.uk/images/logos/REU.png"
+  },
+  {
+    "iata": "UV",
+    "icao": "UVA",
+    "name": "Universal Airways, Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "UX",
+    "icao": "AEA",
+    "name": "Air Europa Lineas Aereas, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AEA.png"
+  },
+  {
+    "iata": "UZ",
+    "icao": "BRQ",
+    "name": "Buraq Air Transport (BRQ)",
+    "logo": "https://www.avcodes.co.uk/images/logos/BRQ.png"
+  },
+  {
+    "iata": "V0",
+    "icao": "VCV",
+    "name": "Conviasa",
+    "logo": "https://www.avcodes.co.uk/images/logos/VCV.png"
+  },
+  {
+    "iata": "V1",
+    "icao": "",
+    "name": "IBS Software Services Americas, Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/IBS_logo.jpg"
+  },
+  {
+    "iata": "V2",
+    "icao": "TWN",
+    "name": "Avialeasing Aviation Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/TWN.png"
+  },
+  {
+    "iata": "V3",
+    "icao": "KRP",
+    "name": "Carpatair, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/KRP.png"
+  },
+  {
+    "iata": "V4",
+    "icao": "VEC",
+    "name": "Vensecar Internacional, C.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VEC.png"
+  },
+  {
+    "iata": "V4*",
+    "icao": "VES",
+    "name": "Vieques Air Link, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VES.png"
+  },
+  {
+    "iata": "V5",
+    "icao": "DAP",
+    "name": "Aerovias DAP",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAP.png"
+  },
+  {
+    "iata": "V7",
+    "icao": "VOE",
+    "name": "Volotea, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VOE.png"
+  },
+  {
+    "iata": "V8",
+    "icao": "VAS",
+    "name": "OOO ATRAN",
+    "logo": "https://www.avcodes.co.uk/images/logos/VAS.jpg"
+  },
+  {
+    "iata": "V8*",
+    "icao": "IAR",
+    "name": "Iliamna Air Taxi, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAR.jpg"
+  },
+  {
+    "iata": "V9",
+    "icao": "VAA",
+    "name": "Van Air Europe a.s.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VAA.jpg"
+  },
+  {
+    "iata": "VA",
+    "icao": "VOZ",
+    "name": "Virgin Australia Airlines Pty Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/VOZ.png"
+  },
+  {
+    "iata": "VB",
+    "icao": "VIV",
+    "name": "Aeroenlaces Nacionales, S.A. de C.V. t/a viva aerobus",
+    "logo": "https://www.avcodes.co.uk/images/logos/VIV.png"
+  },
+  {
+    "iata": "VC",
+    "icao": "SRY",
+    "name": "Charter Air Transport, Inc. d/b/a Via Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SRY.png"
+  },
+  {
+    "iata": "VD",
+    "icao": "",
+    "name": "Vivo Air Links Holdings Ltd",
+    "logo": ""
+  },
+  {
+    "iata": "VE",
+    "icao": "EFY",
+    "name": "Easyfly S.A. (Empresa Aerea de Servicios Y Facilitacion Logistica Integral S.A.)",
+    "logo": "https://www.avcodes.co.uk/images/logos/EFY.jpg"
+  },
+  {
+    "iata": "VF",
+    "icao": "FBB",
+    "name": "Fly Armenia Airways LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/FBB.png"
+  },
+  {
+    "iata": "VG",
+    "icao": "",
+    "name": "Vipper",
+    "logo": "https://www.avcodes.co.uk/images/logos/vipper.png"
+  },
+  {
+    "iata": "VI*",
+    "icao": "VDA",
+    "name": "Volga",
+    "logo": "https://www.avcodes.co.uk/images/logos/VDA.png"
+  },
+  {
+    "iata": "VJ",
+    "icao": "VJC",
+    "name": "Vietjet Aviation Joint Stock Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/VJC.png"
+  },
+  {
+    "iata": "VK",
+    "icao": "FVJ",
+    "name": "Fly for Value Aviation Limited d/b/a ValueJet",
+    "logo": "https://www.avcodes.co.uk/images/logos/FVJ.png"
+  },
+  {
+    "iata": "VM",
+    "icao": "NGL",
+    "name": "Max Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/NGL.png"
+  },
+  {
+    "iata": "VN",
+    "icao": "HVN",
+    "name": "Vietnam Airlines Corporation",
+    "logo": "https://www.avcodes.co.uk/images/logos/HVN.png"
+  },
+  {
+    "iata": "VO",
+    "icao": "UVL",
+    "name": "Universal Air Charter and Management Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/UVL.png"
+  },
+  {
+    "iata": "VP",
+    "icao": "VQI",
+    "name": "Villa Air Private Limited t/a flyme",
+    "logo": "https://www.avcodes.co.uk/images/logos/VQI.png"
+  },
+  {
+    "iata": "VQ",
+    "icao": "NVQ",
+    "name": "Novoair Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/NVQ.png"
+  },
+  {
+    "iata": "VR",
+    "icao": "TCV",
+    "name": "Transportes Aereos de Cabo Verde (TACV) d/b/a Cabo Verde Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/TCV.png"
+  },
+  {
+    "iata": "VS",
+    "icao": "VIR",
+    "name": "Virgin Atlantic Airways Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/VIR.png"
+  },
+  {
+    "iata": "VT",
+    "icao": "VTA",
+    "name": "Air Tahiti",
+    "logo": "https://www.avcodes.co.uk/images/logos/VTA.png"
+  },
+  {
+    "iata": "VU",
+    "icao": "VAG",
+    "name": "Vietnam Travel Airlines Joint stock company d/b/a Vietravel Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/VAG.png"
+  },
+  {
+    "iata": "VY",
+    "icao": "VLG",
+    "name": "Vueling Airlines, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/VLG.png"
+  },
+  {
+    "iata": "VZ",
+    "icao": "TVJ",
+    "name": "Thai Vietjet Air Joint Stock Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/TVJ.png"
+  },
+  {
+    "iata": "VZ*",
+    "icao": "RVP",
+    "name": "Sevenair Air Services",
+    "logo": "https://www.avcodes.co.uk/images/logos/RVP.png"
+  },
+  {
+    "iata": "VZ*",
+    "icao": "QCL",
+    "name": "Air Express S.A. d/b/a Air Class Lineas Aereas",
+    "logo": "https://www.avcodes.co.uk/images/logos/QCL.png"
+  },
+  {
+    "iata": "W1",
+    "icao": "",
+    "name": "World Ticket Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/worldticket.png"
+  },
+  {
+    "iata": "W2",
+    "icao": "FXT",
+    "name": "Flexflight ApS",
+    "logo": "https://www.avcodes.co.uk/images/logos/FXT.png"
+  },
+  {
+    "iata": "W3",
+    "icao": "ARA",
+    "name": "Arik Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/ARA.png"
+  },
+  {
+    "iata": "W4",
+    "icao": "WMT",
+    "name": "Wizz Air Malta Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/WMT.png"
+  },
+  {
+    "iata": "W5",
+    "icao": "IRM",
+    "name": "Mahan Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/IRM.jpg"
+  },
+  {
+    "iata": "W6*",
+    "icao": "WZZ",
+    "name": "Wizz Air Hungary Airlines Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/WZZ.png"
+  },
+  {
+    "iata": "W8",
+    "icao": "CJT",
+    "name": "Cargojet Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CJT.png"
+  },
+  {
+    "iata": "W9",
+    "icao": "WUK",
+    "name": "Wizz Air UK Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/WUK.png"
+  },
+  {
+    "iata": "WA",
+    "icao": "KLC",
+    "name": "KLM Cityhopper",
+    "logo": "https://www.avcodes.co.uk/images/logos/KLC.png"
+  },
+  {
+    "iata": "WB",
+    "icao": "RWD",
+    "name": "RwandAir Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/RWD.png"
+  },
+  {
+    "iata": "WC",
+    "icao": "ISV",
+    "name": "Avianca Honduras",
+    "logo": "https://www.avcodes.co.uk/images/logos/ISV.png"
+  },
+  {
+    "iata": "WD",
+    "icao": "MWM",
+    "name": "Modern Transporte Aereo De Carga S.A. d/b/a Modern Logistics",
+    "logo": "https://www.avcodes.co.uk/images/logos/MWM.png"
+  },
+  {
+    "iata": "WD*",
+    "icao": "VVA",
+    "name": "LLC Aviation Company Eleron",
+    "logo": "https://www.avcodes.co.uk/images/logos/VVA.png"
+  },
+  {
+    "iata": "WE*",
+    "icao": "THD",
+    "name": "Thai Smile Airways Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/THD.png"
+  },
+  {
+    "iata": "WF",
+    "icao": "WIF",
+    "name": "Wideroe's Flyveselskap A/S",
+    "logo": "https://www.avcodes.co.uk/images/logos/WIF.png"
+  },
+  {
+    "iata": "WG",
+    "icao": "SWG",
+    "name": "Sunwing Airlines Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/SWG.png"
+  },
+  {
+    "iata": "WH",
+    "icao": "WWP",
+    "name": "La Nueva Aerolinea, S.A. t/a wingo",
+    "logo": "https://www.avcodes.co.uk/images/logos/WWP.png"
+  },
+  {
+    "iata": "WI",
+    "icao": "WHT",
+    "name": "White Airways S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WHT.png"
+  },
+  {
+    "iata": "WJ",
+    "icao": "JES",
+    "name": "JetSmart Airlines S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/JES.png"
+  },
+  {
+    "iata": "WK",
+    "icao": "EDW",
+    "name": "Edelweiss Air AG",
+    "logo": "https://www.avcodes.co.uk/images/logos/EDW.png"
+  },
+  {
+    "iata": "WL",
+    "icao": "WAL",
+    "name": "Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/WAL.png"
+  },
+  {
+    "iata": "WM",
+    "icao": "WIA",
+    "name": "Windward Islands Airways International N.V.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WIA.png"
+  },
+  {
+    "iata": "WN",
+    "icao": "SWA",
+    "name": "Southwest Airlines Co.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SWA.png"
+  },
+  {
+    "iata": "WO",
+    "icao": "WSW",
+    "name": "Swoop, Inc",
+    "logo": "https://www.avcodes.co.uk/images/logos/WSW.png"
+  },
+  {
+    "iata": "WP",
+    "icao": "WSG",
+    "name": "Wasaya Airways L.P.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WSG.png"
+  },
+  {
+    "iata": "WQ*",
+    "icao": "SWQ",
+    "name": "iAero Airways d/b/a Swift Air",
+    "logo": ""
+  },
+  {
+    "iata": "WR",
+    "icao": "WEN",
+    "name": "Westjet Encore Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WJE.png"
+  },
+  {
+    "iata": "WS",
+    "icao": "WJA",
+    "name": "Westjet",
+    "logo": "https://www.avcodes.co.uk/images/logos/WJA.png"
+  },
+  {
+    "iata": "WT",
+    "icao": "SWT",
+    "name": "Swiftair, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SWT.png"
+  },
+  {
+    "iata": "WU",
+    "icao": "WST",
+    "name": "Western Air Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/WST.png"
+  },
+  {
+    "iata": "WV",
+    "icao": "WAA",
+    "name": "Westair Aviation (Pty) Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WAA.png"
+  },
+  {
+    "iata": "WW*",
+    "icao": "KXP",
+    "name": "M Jets International Sdn Bhd t/a Kargo Xpress",
+    "logo": "https://www.avcodes.co.uk/images/logos/KXP.png"
+  },
+  {
+    "iata": "WX",
+    "icao": "BCY",
+    "name": "Cityjet",
+    "logo": "https://www.avcodes.co.uk/images/logos/BCY.png"
+  },
+  {
+    "iata": "WY",
+    "icao": "OMA",
+    "name": "Oman Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/OMA.jpg"
+  },
+  {
+    "iata": "WZ",
+    "icao": "RWZ",
+    "name": "CJSC Airline 400",
+    "logo": "https://www.avcodes.co.uk/images/logos/RWZ.png"
+  },
+  {
+    "iata": "X1",
+    "icao": "",
+    "name": "Hahn Air Technologies GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/hahnair.png"
+  },
+  {
+    "iata": "X3*",
+    "icao": "TUI",
+    "name": "TUIfly GmbH",
+    "logo": "https://www.avcodes.co.uk/images/logos/TUI.png"
+  },
+  {
+    "iata": "X4",
+    "icao": "",
+    "name": "Air Excursions, LLC d/b/a Alaska Seaplanes",
+    "logo": "https://www.avcodes.co.uk/images/logos/alaska_seaplanes.png"
+  },
+  {
+    "iata": "X5",
+    "icao": "OVA",
+    "name": "aeronova S.L.U. d/b/a Air Europa Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/OVA.png"
+  },
+  {
+    "iata": "X6",
+    "icao": "CHZ",
+    "name": "Challenge Air Cargo Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/CHZ.png"
+  },
+  {
+    "iata": "X7",
+    "icao": "CHG",
+    "name": "Challenge Airlines (BE) S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CHG.png"
+  },
+  {
+    "iata": "X8",
+    "icao": "MMX",
+    "name": "Airmax S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MMX.png"
+  },
+  {
+    "iata": "X9",
+    "icao": "NVD",
+    "name": "Joint Stock Company Avion Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/NVD.png"
+  },
+  {
+    "iata": "XA",
+    "icao": "XAA",
+    "name": "ARINC (Aeronautical Radio, Inc.)",
+    "logo": "https://www.avcodes.co.uk/images/logos/XAA.png"
+  },
+  {
+    "iata": "XB",
+    "icao": "IAT",
+    "name": "International Air Transport Association",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAT.png"
+  },
+  {
+    "iata": "XB",
+    "icao": "IAT",
+    "name": "International Air Transport Association",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAT.png"
+  },
+  {
+    "iata": "XB",
+    "icao": "IAT",
+    "name": "International Air Transport Association",
+    "logo": "https://www.avcodes.co.uk/images/logos/IAT.png"
+  },
+  {
+    "iata": "XC",
+    "icao": "CAI",
+    "name": "Turistik Hava Tasimacilik A.S.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CAI.png"
+  },
+  {
+    "iata": "XD",
+    "icao": "ATA",
+    "name": "Air Transport Association of America (ATA)",
+    "logo": "https://www.avcodes.co.uk/images/logos/ATA.png"
+  },
+  {
+    "iata": "XD",
+    "icao": "",
+    "name": "Scheduled Airlines Traffic Offices, Inc.",
+    "logo": ""
+  },
+  {
+    "iata": "XD",
+    "icao": "XXD",
+    "name": "OAG Worldwide.",
+    "logo": "https://www.avcodes.co.uk/images/logos/XXD.png"
+  },
+  {
+    "iata": "XE",
+    "icao": "JSX",
+    "name": "Delux Public Charter, LLC d/b/a JSX Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/JSX.png"
+  },
+  {
+    "iata": "XF",
+    "icao": "MGW",
+    "name": "Mongolian Airways Cargo",
+    "logo": ""
+  },
+  {
+    "iata": "XJ",
+    "icao": "TAX",
+    "name": "Thai Airasia X Company Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/TAX.png"
+  },
+  {
+    "iata": "XK",
+    "icao": "CCM",
+    "name": "Air Corsica",
+    "logo": "https://www.avcodes.co.uk/images/logos/CCM.png"
+  },
+  {
+    "iata": "XL",
+    "icao": "LNE",
+    "name": "Aerolane",
+    "logo": "https://www.avcodes.co.uk/images/logos/LNE.png"
+  },
+  {
+    "iata": "XM",
+    "icao": "IMX",
+    "name": "Zimex Aviation Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/IMX.png"
+  },
+  {
+    "iata": "XN*",
+    "icao": "MNM",
+    "name": "Manasik Aviation Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/MNM.png"
+  },
+  {
+    "iata": "XO",
+    "icao": "SGD",
+    "name": "South East Asian Airlines (Seair) International, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SGD.png"
+  },
+  {
+    "iata": "XP",
+    "icao": "VXP",
+    "name": "T.E.M. Enterprises Inc. d/b/a  Avelo Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/VXP.png"
+  },
+  {
+    "iata": "XQ*",
+    "icao": "SXS",
+    "name": "SunExpress",
+    "logo": "https://www.avcodes.co.uk/images/logos/SXS.png"
+  },
+  {
+    "iata": "XR",
+    "icao": "CXI",
+    "name": "Touristic Aviation Services Ltd. t/a Corendon Airlines Europe",
+    "logo": "https://www.avcodes.co.uk/images/logos/CXI.png"
+  },
+  {
+    "iata": "XS",
+    "icao": "SIT",
+    "name": "SITA",
+    "logo": "https://www.avcodes.co.uk/images/logos/SIT.gif"
+  },
+  {
+    "iata": "XT",
+    "icao": "CTU",
+    "name": "Limited Liability Company GloBus",
+    "logo": ""
+  },
+  {
+    "iata": "XU",
+    "icao": "AXK",
+    "name": "African Express Airways (K) Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/AXK.png"
+  },
+  {
+    "iata": "XY",
+    "icao": "KNE",
+    "name": "Flynas Company Closed Joint Stock owned by (NAS Holding) JSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/KNE.png"
+  },
+  {
+    "iata": "XZ",
+    "icao": "AEZ",
+    "name": "Aeroitalia S.r.l.",
+    "logo": "https://www.avcodes.co.uk/images/logos/aeroitalia.png"
+  },
+  {
+    "iata": "Y1",
+    "icao": "",
+    "name": "Travel Technologyu Interactive SA",
+    "logo": "https://www.avcodes.co.uk/images/logos/tti-logo.gif"
+  },
+  {
+    "iata": "Y2",
+    "icao": "CEY",
+    "name": "Air Century, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CEY.png"
+  },
+  {
+    "iata": "Y3",
+    "icao": "SYA",
+    "name": "Syphax Airlines S A",
+    "logo": "https://www.avcodes.co.uk/images/logos/SYA.png"
+  },
+  {
+    "iata": "Y4*",
+    "icao": "VOI",
+    "name": "Concesionaria Vuela Compania De, SA de CV (Volaris)",
+    "logo": "https://www.avcodes.co.uk/images/logos/VOI.png"
+  },
+  {
+    "iata": "Y6",
+    "icao": "CIK",
+    "name": "AB Aviation",
+    "logo": "https://www.avcodes.co.uk/images/logos/AB_aviation.png"
+  },
+  {
+    "iata": "Y7",
+    "icao": "TYA",
+    "name": "Joint",
+    "logo": "https://www.avcodes.co.uk/images/logos/TYA.png"
+  },
+  {
+    "iata": "Y8",
+    "icao": "YZR",
+    "name": "Suparna Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/YZR.png"
+  },
+  {
+    "iata": "Y9",
+    "icao": "DAT",
+    "name": "1263343 Alberta Inc t/a Lynx Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/DAT.png"
+  },
+  {
+    "iata": "YB",
+    "icao": "",
+    "name": "Harbour Air Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ha_logo.png"
+  },
+  {
+    "iata": "YC",
+    "icao": "LLM",
+    "name": "Yamal Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/LLM.png"
+  },
+  {
+    "iata": "YD",
+    "icao": "SYG",
+    "name": "Synergy Aviation Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SYG.png"
+  },
+  {
+    "iata": "YE",
+    "icao": "ANR",
+    "name": "Yan Air Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANR.png"
+  },
+  {
+    "iata": "YF",
+    "icao": "",
+    "name": "Department of National Defence",
+    "logo": ""
+  },
+  {
+    "iata": "YG",
+    "icao": "HYT",
+    "name": "YTO Cargo Airlines Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/HYT.png"
+  },
+  {
+    "iata": "YH",
+    "icao": "",
+    "name": "Sunsplash Aviation, LLC.",
+    "logo": ""
+  },
+  {
+    "iata": "YI",
+    "icao": "OYA",
+    "name": "Fly OYA International Airline d/b/a FLY OYA",
+    "logo": "https://www.avcodes.co.uk/images/logos/OYA.png"
+  },
+  {
+    "iata": "YJ",
+    "icao": "WUA",
+    "name": "Asian Express General Aviation Wuxi Co., Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/WUA.png"
+  },
+  {
+    "iata": "YK",
+    "icao": "AVJ",
+    "name": "Avia Traffic Company LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/AVJ.png"
+  },
+  {
+    "iata": "YL",
+    "icao": "LWA",
+    "name": "Libyan Wings",
+    "logo": "https://www.avcodes.co.uk/images/logos/LWA.png"
+  },
+  {
+    "iata": "YN",
+    "icao": "CRQ",
+    "name": "Air Creebec (1994), Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/CRQ.png"
+  },
+  {
+    "iata": "YO",
+    "icao": "MCM",
+    "name": "Heli Air Monaco",
+    "logo": "https://www.avcodes.co.uk/images/logos/MCM.png"
+  },
+  {
+    "iata": "YP",
+    "icao": "APZ",
+    "name": "Air Premia Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/APZ.png"
+  },
+  {
+    "iata": "YQ",
+    "icao": "LCT",
+    "name": "Link Conexion Aerea, S.A. de C.V. d/b/a TAR Aerolineas",
+    "logo": "https://www.avcodes.co.uk/images/logos/LCT.png"
+  },
+  {
+    "iata": "YR",
+    "icao": "EGJ",
+    "name": "Grand Canyon Airlines, Inc d/b/a Scenic Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/EGJ.png"
+  },
+  {
+    "iata": "YS",
+    "icao": "FLZ",
+    "name": "Flightlink Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/FLZ.png"
+  },
+  {
+    "iata": "YT",
+    "icao": "NYT",
+    "name": "Yeti Airlines Domestic Pvt. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/NYT.png"
+  },
+  {
+    "iata": "YU",
+    "icao": "MMZ",
+    "name": "EuroAtlantic Airways Transportes Aereos, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MMZ.png"
+  },
+  {
+    "iata": "YV",
+    "icao": "ASH",
+    "name": "Mesa Airlines, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ASH.png"
+  },
+  {
+    "iata": "YW",
+    "icao": "ANE",
+    "name": "Air Nostrum Lineas Aereas del Mediterraneo, S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ANE.png"
+  },
+  {
+    "iata": "YX",
+    "icao": "RPA",
+    "name": "Republic Airline, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/RPA.png"
+  },
+  {
+    "iata": "YZ",
+    "icao": "",
+    "name": "Sonoco ThermoSafe",
+    "logo": "https://www.avcodes.co.uk/images/logos/sonoco.png"
+  },
+  {
+    "iata": "Z0",
+    "icao": "UBT",
+    "name": "Norse Atlantic UK Limited",
+    "logo": "https://www.avcodes.co.uk/images/logos/UBT.png"
+  },
+  {
+    "iata": "Z2",
+    "icao": "APG",
+    "name": "Philippines AirAsia Inc. t/a AirAsia Philippines",
+    "logo": "https://www.avcodes.co.uk/images/logos/EZD.png"
+  },
+  {
+    "iata": "Z7*",
+    "icao": "CMS",
+    "name": "CAMEX Airlines LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/CMS.png"
+  },
+  {
+    "iata": "Z8*",
+    "icao": "AZN",
+    "name": "Línea Aérea Amaszonas S.A.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZN.png"
+  },
+  {
+    "iata": "Z9",
+    "icao": "MYM",
+    "name": "MYAirline Sdn. Bhd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/MYM.png"
+  },
+  {
+    "iata": "ZA",
+    "icao": "SWM",
+    "name": "Sky Angkor Airlines Co., Ltd. d/b/a Sky Angkor Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/SWM.png"
+  },
+  {
+    "iata": "ZB",
+    "icao": "ABN",
+    "name": "Air Albania Shpk",
+    "logo": "https://www.avcodes.co.uk/images/logos/ABN.png"
+  },
+  {
+    "iata": "ZD",
+    "icao": "EWR",
+    "name": "EWA Air",
+    "logo": "https://www.avcodes.co.uk/images/logos/EWR.png"
+  },
+  {
+    "iata": "ZE",
+    "icao": "ESR",
+    "name": "Eastar Jet Co. Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/ESR.png"
+  },
+  {
+    "iata": "ZF",
+    "icao": "AZV",
+    "name": "AZUR air Limited Liability Company",
+    "logo": "https://www.avcodes.co.uk/images/logos/KTK.png"
+  },
+  {
+    "iata": "ZF*",
+    "icao": "SXY",
+    "name": "Safari Express Cargo Limited",
+    "logo": ""
+  },
+  {
+    "iata": "ZG",
+    "icao": "TZP",
+    "name": "Zipair Tokyo, Inc.",
+    "logo": "https://www.avcodes.co.uk/images/logos/zipair.png"
+  },
+  {
+    "iata": "ZH",
+    "icao": "CSZ",
+    "name": "Shenzhen Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/CSZ.png"
+  },
+  {
+    "iata": "ZJ",
+    "icao": "",
+    "name": "ARINC Direct",
+    "logo": "https://www.avcodes.co.uk/images/logos/arincdirect.png"
+  },
+  {
+    "iata": "ZK*",
+    "icao": "ZAV",
+    "name": "Zetavia Limited, Aircompany",
+    "logo": "https://www.avcodes.co.uk/images/logos/ZAV.png"
+  },
+  {
+    "iata": "ZL",
+    "icao": "RXA",
+    "name": "Australiawide Airlines Ltd. d/b/a Regional Express",
+    "logo": "https://www.avcodes.co.uk/images/logos/RXA.png"
+  },
+  {
+    "iata": "ZM",
+    "icao": "MBB",
+    "name": "Air Manas Air Company LLC",
+    "logo": "https://www.avcodes.co.uk/images/logos/airmanas.png"
+  },
+  {
+    "iata": "ZN",
+    "icao": "AZB",
+    "name": "Zambia Airways (2014) Limited",
+    "logo": ""
+  },
+  {
+    "iata": "ZO",
+    "icao": "",
+    "name": "Colorful Yunnan General Aviation Co., Ltd. t/a Colorful Yunnan Airlines",
+    "logo": ""
+  },
+  {
+    "iata": "ZP",
+    "icao": "AZP",
+    "name": "Compañía de Aviación Paraguaya S.A. d/b/a Paranair",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZP.png"
+  },
+  {
+    "iata": "ZP*",
+    "icao": "AZQ",
+    "name": "Silk Way Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZQ.png"
+  },
+  {
+    "iata": "ZQ",
+    "icao": "GER",
+    "name": "German Airways GmbH & Co.KG",
+    "logo": "https://www.avcodes.co.uk/images/logos/GER.png"
+  },
+  {
+    "iata": "ZR*",
+    "icao": "AZS",
+    "name": "Aviacon Zitotrans Air Company JSC",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZS.png"
+  },
+  {
+    "iata": "ZS",
+    "icao": "SOP",
+    "name": "Solinair Latelsko Podjetjet d.o.o.",
+    "logo": "https://www.avcodes.co.uk/images/logos/SOP.png"
+  },
+  {
+    "iata": "ZT*",
+    "icao": "AWC",
+    "name": "Titan Airways Ltd.",
+    "logo": "https://www.avcodes.co.uk/images/logos/AWC.png"
+  },
+  {
+    "iata": "ZU",
+    "icao": "AZM",
+    "name": "Azman Air Services Ltd",
+    "logo": "https://www.avcodes.co.uk/images/logos/AZM.png"
+  },
+  {
+    "iata": "ZV",
+    "icao": "RFD",
+    "name": "Aerotransportes Rafilher, S.A. de C.V.",
+    "logo": ""
+  },
+  {
+    "iata": "ZW",
+    "icao": "AWI",
+    "name": "Air Wisconsin Airlines Corporation (AWAC)",
+    "logo": "https://www.avcodes.co.uk/images/logos/AWI.png"
+  },
+  {
+    "iata": "ZX",
+    "icao": "GGN",
+    "name": "2746904 Ontario Inc. d/b/a Pivot Airlines",
+    "logo": "https://www.avcodes.co.uk/images/logos/GGN.png"
+  }
+]
