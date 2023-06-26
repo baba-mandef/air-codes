@@ -7,7 +7,7 @@ This module provides functions to retrieve airport and airline information based
 Install air-codes using the following command
 
 ```bash
-npm install airport-data-module
+npm install  aircodes
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install airport-data-module
 First, require the module in your JavaScript file:
 
 ```javascript
-const airportData = require("airport-data-module");
+const airportData = require("aircodes");
 ```
 
 ### Retrieving Airport Information
