@@ -649,6 +649,18 @@
   dependencies:
     "@types/yargs-parser" "*"
 
+aircodes@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/aircodes/-/aircodes-1.3.0.tgz#0b4efe87a7eff0a430946a7cf0f357052495e563"
+  integrity sha512-+S/hrAwIqn2cIZC4qKfqoawSg+nrwLXUlJ/MSTPv02fGiWNjDHUq/Jtwh4QWlRPg3GxbGgnEWq3G3EjQLjqMmQ==
+  dependencies:
+    aircodes "^1.3.9"
+
+aircodes@^1.3.9:
+  version "1.3.9"
+  resolved "https://registry.yarnpkg.com/aircodes/-/aircodes-1.3.9.tgz#7314b67167264cf86a6bb2ad423df82fcf7ee824"
+  integrity sha512-exUTENwlKa8msW+HP9lYQh8NtBOI3z7jctX1H8c2kXreqaT+IiuhrJ7Wanaobh46DpX83vp0LMqIQflOtlM7Iw==
+
 ansi-escapes@^4.2.1:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-4.3.2.tgz#6b2291d1db7d98b6521d5f1efa42d0f3a9feb65e"

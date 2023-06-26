@@ -27,5 +27,8 @@
   "homepage": "https://github.com/ptahemdjehuty/air-codes#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "aircodes": "^1.3.0"
   }
 }
