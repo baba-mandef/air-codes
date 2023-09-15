@@ -21,4 +21,20 @@ module.exports = {
     const airline = airlines.find((item) => item.icao == icaoCode);
     return airline || null;
   },
+
+  findAirport: (query) => {
+    return airports.filter((item) =>
+      Object.values(item).some(
+        (val) => typeof val === "string" && val.toLocaleLowerCase().includes(query.toLocaleLowerCase())
+      )
+    );
+  },
+
+  findAirline: (query) => {
+    return airlines.filter((item) =>
+      Object.values(item).some(
+        (val) => typeof val === "string" && val.toLocaleLowerCase().includes(query.toLocaleLowerCase())
+      )
+    );
+  },
 };
