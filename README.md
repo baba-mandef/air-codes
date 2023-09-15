@@ -118,6 +118,50 @@ Output:
 }
 ```
 
+#### `findAirport(query)`
+This function takes a query string as an argument and returns the airport object matching the query, or null if no match was found.
+
+Example usage:
+```javascript
+const airport = findAirport("cotonou");
+console.log(airport);
+```
+
+Output:
+```javascript
+[
+  {
+    iata: 'COO',
+    icao: 'DBBB',
+    name: 'Cadjehoun Airport',
+    city: 'Cotonou',
+    state: '',
+    country: 'Benin'
+  }
+]
+```
+
+#### `findAirline(query)`
+This function takes a query string as an argument and returns the airline object matching the query, or null if no match was found.
+
+Example usage:
+```javascript
+const airline = findAirline("brussel");
+console.log(airline);
+```
+
+Output:
+```javascript
+[
+  {
+    iata: 'SN',
+    icao: 'BEL',
+    name: 'Brussels Airlines N.V.',
+    logo: 'https://www.avcodes.co.uk/images/logos/BEL.png'
+  }
+]
+```
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create an issue or submit a pull request.
